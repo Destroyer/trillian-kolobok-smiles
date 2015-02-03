@@ -7,6 +7,18 @@ www.kolobok.us
 
 Maked ready for Trillian by Zver'Ok
 
+TODO:
+
+girl_cray - *girl_cry2*
+girl_blum - *girlP*
+girl_mad - *girl_mad*
+girl_sad - *girl_sad*
+girl_witch - *girl_witch*
+first_move - *first_move*
+gamer1 - *gamer1*
+locomotive - *vojta*
+girl_prepare_fish - *girl_prepare_fish*
+
 -->
 
 	<bitmap	name="aa"			file="../../stixe/plugins/Kolobok-big-pack/aa.gif"/>
@@ -124,6 +136,9 @@ Maked ready for Trillian by Zver'Ok
 	<bitmap	name="keepo"		file="../../stixe/plugins/Kolobok-big-pack/keepo.png"/>
 	<bitmap	name="pogchamp"		file="../../stixe/plugins/Kolobok-big-pack/pogchamp.png"/>
 	
+	<bitmap	name="pika_cry"		file="../../stixe/plugins/Kolobok-big-pack/pika_cry.png"/>
+	<bitmap	name="pika_happy"	file="../../stixe/plugins/Kolobok-big-pack/pika_happy.png"/>
+	<bitmap	name="fluffle"		file="../../stixe/plugins/Kolobok-big-pack/fluffle.png"/>
 	
 	
 <prefs>
@@ -245,8 +260,8 @@ Maked ready for Trillian by Zver'Ok
 <emoticon text= "*DRINK*" button="yes"><source name="az" right="51" bottom="28" left="0" top="0"/></emoticon>
 <emoticon text= "*drink*"><source name="az" right="51" bottom="28" left="0" top="0"/></emoticon>
 
-<emoticon text= "*IN LOVE*" button="yes"><source name="ba" right="20" bottom="20" left="0" top="0"/></emoticon>
-<emoticon text= "*in love*"><source name="ba" right="20" bottom="20" left="0" top="0"/></emoticon>
+<emoticon text= "*IN LOVE*" button="yes"><source name="ba" right="28" bottom="26" left="0" top="0"/></emoticon>
+<emoticon text= "*in love*"><source name="ba" right="28" bottom="26" left="0" top="0"/></emoticon>
 
 <emoticon text= "@=" button="yes"><source name="bb" right="28" bottom="24" left="0" top="0"/></emoticon>
 
@@ -286,11 +301,11 @@ Maked ready for Trillian by Zver'Ok
 <emoticon text= "*CRAZY*" button="yes"><source name="bm" right="20" bottom="27" left="0" top="0"/></emoticon>
 <emoticon text= "*crazy*" ><source name="bm" right="20" bottom="27" left="0" top="0"/></emoticon>
 
-<emoticon text= "*DONT_KNOW*" button="yes"><source name="bn" right="32" bottom="20" left="0" top="0"/></emoticon>
-<emoticon text= "*UNKNOWN*" ><source name="bn" right="32" bottom="20" left="0" top="0"/></emoticon>
-<emoticon text= "*dont_know*" ><source name="bn" right="32" bottom="20" left="0" top="0"/></emoticon>
-<emoticon text= "*unknown*" ><source name="bn" right="32" bottom="20" left="0" top="0"/></emoticon>
-<emoticon text= ":-$" ><source name="bn" right="32" bottom="20" left="0" top="0"/></emoticon>
+<emoticon text= "*DONT_KNOW*" button="yes"><source name="bn" right="28" bottom="18" left="0" top="0"/></emoticon>
+<emoticon text= "*UNKNOWN*" ><source name="bn" right="28" bottom="18" left="0" top="0"/></emoticon>
+<emoticon text= "*dont_know*" ><source name="bn" right="28" bottom="18" left="0" top="0"/></emoticon>
+<emoticon text= "*unknown*" ><source name="bn" right="28" bottom="18" left="0" top="0"/></emoticon>
+<emoticon text= ":-$" ><source name="bn" right="28" bottom="18" left="0" top="0"/></emoticon>
 
 <emoticon text= "*DANCE*" button="yes"><source name="bo" right="39" bottom="26" left="0" top="0"/></emoticon>
 <emoticon text= "*dance*" ><source name="bo" right="39" bottom="26" left="0" top="0"/></emoticon>
@@ -340,6 +355,10 @@ Maked ready for Trillian by Zver'Ok
 <emoticon text= "Kreygasm" button="yes"><source name= "kreygasm"  left=" 0" right=" 19" top=" 0" bottom=" 27"/></emoticon>
 <emoticon text= "Keepo" button="yes"><source name= "keepo"  left=" 0" right=" 27" top=" 0" bottom=" 29"/></emoticon>
 <emoticon text= "PogChamp" button="yes"><source name= "pogchamp"  left=" 0" right=" 23" top=" 0" bottom=" 30"/></emoticon>
+
+<emoticon text= "*pika_happy*" button="yes"><source name= "pika_happy"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
+<emoticon text= "*pika_cry*" button="yes"><source name= "pika_cry"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
+<emoticon text= "*fluffle_puff*" button="yes"><source name= "fluffle"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
 
 		</group>
 		<group text="&wordExtraSmileys;" initial="0" >
