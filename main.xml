@@ -6,19 +6,6 @@ Emiticons designed by Aiwan
 www.kolobok.us
 
 Maked ready for Trillian by Zver'Ok
-
-TODO:
-
-girl_cray - *girl_cry2*
-girl_blum - *girlP*
-girl_mad - *girl_mad*
-girl_sad - *girl_sad*
-girl_witch - *girl_witch*
-first_move - *first_move*
-gamer1 - *gamer1*
-locomotive - *vojta*
-girl_prepare_fish - *girl_prepare_fish*
-
 -->
 
 	<bitmap	name="aa"			file="../../stixe/plugins/Kolobok-big-pack/aa.gif"/>
@@ -126,7 +113,18 @@ girl_prepare_fish - *girl_prepare_fish*
 	<bitmap	name="dy"			file="../../stixe/plugins/Kolobok-big-pack/dy.gif"/>
 	<bitmap	name="dz"			file="../../stixe/plugins/Kolobok-big-pack/dz.gif"/>
 	<bitmap	name="ea"			file="../../stixe/plugins/Kolobok-big-pack/ea.gif"/>
-	
+<!-- Additional Kolobok smilies -->
+	<bitmap	name="eb"			file="../../stixe/plugins/Kolobok-big-pack/eb.gif"/>
+	<bitmap	name="ec"			file="../../stixe/plugins/Kolobok-big-pack/ec.gif"/>
+	<bitmap	name="ed"			file="../../stixe/plugins/Kolobok-big-pack/ed.gif"/>
+	<bitmap	name="ee"			file="../../stixe/plugins/Kolobok-big-pack/ee.gif"/>
+	<bitmap	name="ef"			file="../../stixe/plugins/Kolobok-big-pack/ef.gif"/>
+	<bitmap	name="eg"			file="../../stixe/plugins/Kolobok-big-pack/eg.gif"/>
+	<bitmap	name="eh"			file="../../stixe/plugins/Kolobok-big-pack/eh.gif"/>
+	<bitmap	name="ei"			file="../../stixe/plugins/Kolobok-big-pack/ei.gif"/>
+	<bitmap	name="ej"			file="../../stixe/plugins/Kolobok-big-pack/ej.gif"/>
+	<bitmap	name="ek"			file="../../stixe/plugins/Kolobok-big-pack/ek.gif"/>
+<!-- Additional Twitch smilies -->	
 	<bitmap	name="kappa"		file="../../stixe/plugins/Kolobok-big-pack/kappa.png"/>
 	<bitmap	name="pjsalt"		file="../../stixe/plugins/Kolobok-big-pack/pjsalt.png"/>
 	<bitmap	name="biblethumb"	file="../../stixe/plugins/Kolobok-big-pack/biblethumb.png"/>
@@ -135,7 +133,7 @@ girl_prepare_fish - *girl_prepare_fish*
 	<bitmap	name="kreygasm"		file="../../stixe/plugins/Kolobok-big-pack/kreygasm.png"/>
 	<bitmap	name="keepo"		file="../../stixe/plugins/Kolobok-big-pack/keepo.png"/>
 	<bitmap	name="pogchamp"		file="../../stixe/plugins/Kolobok-big-pack/pogchamp.png"/>
-	
+<!-- Additional custom requested smilies -->
 	<bitmap	name="pika_cry"		file="../../stixe/plugins/Kolobok-big-pack/pika_cry.png"/>
 	<bitmap	name="pika_happy"	file="../../stixe/plugins/Kolobok-big-pack/pika_happy.png"/>
 	<bitmap	name="fluffle"		file="../../stixe/plugins/Kolobok-big-pack/fluffle.png"/>
@@ -301,11 +299,11 @@ girl_prepare_fish - *girl_prepare_fish*
 <emoticon text= "*CRAZY*" button="yes"><source name="bm" right="20" bottom="27" left="0" top="0"/></emoticon>
 <emoticon text= "*crazy*" ><source name="bm" right="20" bottom="27" left="0" top="0"/></emoticon>
 
-<emoticon text= "*DONT_KNOW*" button="yes"><source name="bn" right="28" bottom="18" left="0" top="0"/></emoticon>
-<emoticon text= "*UNKNOWN*" ><source name="bn" right="28" bottom="18" left="0" top="0"/></emoticon>
-<emoticon text= "*dont_know*" ><source name="bn" right="28" bottom="18" left="0" top="0"/></emoticon>
-<emoticon text= "*unknown*" ><source name="bn" right="28" bottom="18" left="0" top="0"/></emoticon>
-<emoticon text= ":-$" ><source name="bn" right="28" bottom="18" left="0" top="0"/></emoticon>
+<emoticon text= "*DONT_KNOW*" button="yes"><source name="bn" right="30" bottom="20" left="0" top="0"/></emoticon>
+<emoticon text= "*UNKNOWN*" ><source name="bn" right="30" bottom="20" left="0" top="0"/></emoticon>
+<emoticon text= "*dont_know*" ><source name="bn" right="30" bottom="20" left="0" top="0"/></emoticon>
+<emoticon text= "*unknown*" ><source name="bn" right="30" bottom="20" left="0" top="0"/></emoticon>
+<emoticon text= ":-$" ><source name="bn" right="30" bottom="20" left="0" top="0"/></emoticon>
 
 <emoticon text= "*DANCE*" button="yes"><source name="bo" right="39" bottom="26" left="0" top="0"/></emoticon>
 <emoticon text= "*dance*" ><source name="bo" right="39" bottom="26" left="0" top="0"/></emoticon>
@@ -346,7 +344,7 @@ girl_prepare_fish - *girl_prepare_fish*
 <emoticon text= "*SCRATCH*" button="yes"><source name="bw" right="27" bottom="24" left="0" top="0"/></emoticon>
 <emoticon text= "*scratch*" ><source name="bw" right="27" bottom="24" left="0" top="0"/></emoticon>
 
-
+<!-- Additional Twitch smilies -->
 <emoticon text= "Kappa" button="yes"><source name= "kappa"  left=" 0" right=" 25" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "BabyRage" button="yes"><source name= "babyrage"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "BibleThump" button="yes"><source name= "biblethumb"  left=" 0" right=" 36" top=" 0" bottom=" 30"/></emoticon>
@@ -355,11 +353,11 @@ girl_prepare_fish - *girl_prepare_fish*
 <emoticon text= "Kreygasm" button="yes"><source name= "kreygasm"  left=" 0" right=" 19" top=" 0" bottom=" 27"/></emoticon>
 <emoticon text= "Keepo" button="yes"><source name= "keepo"  left=" 0" right=" 27" top=" 0" bottom=" 29"/></emoticon>
 <emoticon text= "PogChamp" button="yes"><source name= "pogchamp"  left=" 0" right=" 23" top=" 0" bottom=" 30"/></emoticon>
-
+<!-- Additional custom requested smilies -->
 <emoticon text= "*pika_happy*" button="yes"><source name= "pika_happy"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
 <emoticon text= "*pika_cry*" button="yes"><source name= "pika_cry"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
 <emoticon text= "*fluffle_puff*" button="yes"><source name= "fluffle"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
-
+<!-- end of addition -->
 		</group>
 		<group text="&wordExtraSmileys;" initial="0" >
 
@@ -459,6 +457,49 @@ girl_prepare_fish - *girl_prepare_fish*
 <emoticon text= "*SIGH*" button="yes"><source name="db" right="34" bottom="24" left="0" top="0"/></emoticon>
 <emoticon text= "*sigh*" ><source name="db" right="34" bottom="24" left="0" top="0"/></emoticon>
 
+<!-- Additional Kolobok smilies
+eb - girl_cray - *girl_cry2*
+ec - girl_blum - *girlP*
+ed - girl_mad - *girl_mad*
+ee - girl_sad - *girl_sad*
+ef - girl_witch - *girl_witch*
+eg - first_move - *first_move*
+eh - gamer1 - *gamer1*
+ei - locomotive - *vojta*
+ej - girl_prepare_fish - *girl_prepare_fish*
+ek - neo - *neo*
+-->
+<emoticon text= "*GIRL_CRY2*" button="yes"><source name="eb" right="34" bottom="25" left="0" top="0"/></emoticon>
+<emoticon text= "*girl_cry2*" ><source name="eb" right="34" bottom="25" left="0" top="0"/></emoticon>
+
+<emoticon text= "*GIRLP*" button="yes"><source name="ec" right="34" bottom="23" left="0" top="0"/></emoticon>
+<emoticon text= "*girlP*" ><source name="ec" right="34" bottom="23" left="0" top="0"/></emoticon>
+
+<emoticon text= "*GIRL_MAD*" button="yes"><source name="ed" right="34" bottom="23" left="0" top="0"/></emoticon>
+<emoticon text= "*girl_mad*" ><source name="ed" right="34" bottom="23" left="0" top="0"/></emoticon>
+
+<emoticon text= "*GIRL_SAD*" button="yes"><source name="ee" right="34" bottom="23" left="0" top="0"/></emoticon>
+<emoticon text= "*girl_sad*" ><source name="ee" right="34" bottom="23" left="0" top="0"/></emoticon>
+
+<emoticon text= "*GIRL_WITCH*" button="yes"><source name="ef" right="46" bottom="31" left="0" top="0"/></emoticon>
+<emoticon text= "*girl_witch*" ><source name="ef" right="46" bottom="31" left="0" top="0"/></emoticon>
+
+<emoticon text= "*FIRST_MOVE*" button="yes"><source name="eg" right="55" bottom="24" left="0" top="0"/></emoticon>
+<emoticon text= "*first_move*" ><source name="eg" right="55" bottom="24" left="0" top="0"/></emoticon>
+
+<emoticon text= "*GAMER1*" button="yes"><source name="eh" right="37" bottom="27" left="0" top="0"/></emoticon>
+<emoticon text= "*gamer1*" ><source name="eh" right="37" bottom="27" left="0" top="0"/></emoticon>
+
+<emoticon text= "*VOJTA*" button="yes"><source name="ei" right="38" bottom="26" left="0" top="0"/></emoticon>
+<emoticon text= "*vojta*" ><source name="ei" right="38" bottom="26" left="0" top="0"/></emoticon>
+
+<emoticon text= "*GIRL_PREPARE_FISH*" button="yes"><source name="ej" right="47" bottom="26" left="0" top="0"/></emoticon>
+<emoticon text= "*girl_prepare_fish*" ><source name="ej" right="47" bottom="26" left="0" top="0"/></emoticon>
+
+<emoticon text= "*NEO*" button="yes"><source name="ek" right="33" bottom="24" left="0" top="0"/></emoticon>
+<emoticon text= "*neo*" ><source name="ek" right="33" bottom="24" left="0" top="0"/></emoticon>
+<!-- end of addition -->
+
 <emoticon text= "X-)" button="yes"><source name="dc" right="27" bottom="35" left="0" top="0"/></emoticon>
 <emoticon text= "x-)" ><source name="dc" right="27" bottom="35" left="0" top="0"/></emoticon>
 <emoticon text= "X)" ><source name="dc" right="27" bottom="35" left="0" top="0"/></emoticon>
@@ -520,8 +561,8 @@ girl_prepare_fish - *girl_prepare_fish*
 <emoticon text= "*TRAINING*" button="yes"><source name="du" right="49" bottom="21" left="0" top="0"/></emoticon>
 <emoticon text= "*training*" ><source name="du" right="49" bottom="21" left="0" top="0"/></emoticon>
 
-<emoticon text= "*PARTY*" button="yes"><source name="dv" right="57" bottom="26" left="0" top="0"/></emoticon>
-<emoticon text= "*party*" ><source name="dv" right="57" bottom="26" left="0" top="0"/></emoticon>
+<emoticon text= "*PARTY*" button="yes"><source name="dv" right="90" bottom="26" left="0" top="0"/></emoticon>
+<emoticon text= "*party*" ><source name="dv" right="90" bottom="26" left="0" top="0"/></emoticon>
 
 <emoticon text= "*POPCORN*" button="yes"><source name="dw" right="37" bottom="28" left="0" top="0"/></emoticon>
 <emoticon text= "*popcorn*" ><source name="dw" right="37" bottom="28" left="0" top="0"/></emoticon>
@@ -551,7 +592,7 @@ girl_prepare_fish - *girl_prepare_fish*
 		&iniMenuItemColor;
 		&iniIconMenuItemSettings;
 		<!-- Customise the width of the emoticon menu to your own likings instead of Stixe's default -->
-		<settings name="Width" value="400"/>
+		<settings name="Width" value="450"/>
 		
 	<!-- Emoticon Menu Font Settings -->
 		<font name="section"	source="ttfDefault"	type="&iniDefaultFontName;"	size="&iniDefaultFontSize;"/>
