@@ -123,6 +123,7 @@ www.kolobok.us
 	<bitmap	name="ei"			file="../../stixe/plugins/Kolobok-big-pack/ei.gif"/>
 	<bitmap	name="ej"			file="../../stixe/plugins/Kolobok-big-pack/ej.gif"/>
 	<bitmap	name="ek"			file="../../stixe/plugins/Kolobok-big-pack/ek.gif"/>
+	<bitmap	name="em"			file="../../stixe/plugins/Kolobok-big-pack/em.gif"/>
 <!-- Additional Twitch smilies -->	
 	<bitmap	name="kappa"		file="../../stixe/plugins/Kolobok-big-pack/kappa.png"/>
 	<bitmap	name="pjsalt"		file="../../stixe/plugins/Kolobok-big-pack/pjsalt.png"/>
@@ -142,9 +143,6 @@ www.kolobok.us
 	<control name="emoticons" type="emoticons">
 	
 		<group text="&wordBasicSmileys;" initial="1" >
-
-<emoticon text= "O:-)" button="yes"><source name="aa" right="27" bottom="23" left="0" top="0"/></emoticon>
-<emoticon text= "O=)" ><source name="aa" right="27" bottom="23" left="0" top="0"/></emoticon>
 
 <emoticon text= ":-)" button="yes"><source name="ab" right="20" bottom="24" left="0" top="0"/></emoticon>
 <emoticon text= ":)" ><source name="ab" right="20" bottom="24" left="0" top="0"/></emoticon>
@@ -191,8 +189,9 @@ www.kolobok.us
 <emoticon text= "0_O" ><source name="ai" right="20" bottom="20" left="0" top="0"/></emoticon>
 <emoticon text= "0_o" ><source name="ai" right="20" bottom="20" left="0" top="0"/></emoticon>
 
-<emoticon text= ":-*" button="yes"><source name="aj" right="34" bottom="23" left="0" top="0"/></emoticon>
-<emoticon text= ":-{}" ><source name="aj" right="34" bottom="23" left="0" top="0"/></emoticon>
+<emoticon text= "O:-)" button="yes"><source name="aa" right="27" bottom="23" left="0" top="0"/></emoticon>
+<emoticon text= "O=)" ><source name="aa" right="27" bottom="23" left="0" top="0"/></emoticon>
+
 
 <emoticon text= ":'(" button="yes"><source name="ak" right="31" bottom="23" left="0" top="0"/></emoticon>
 <emoticon text= ":'-(" ><source name="ak" right="31" bottom="23" left="0" top="0"/></emoticon>
@@ -343,23 +342,6 @@ www.kolobok.us
 <emoticon text= "*SCRATCH*" button="yes"><source name="bw" right="27" bottom="24" left="0" top="0"/></emoticon>
 <emoticon text= "*scratch*" ><source name="bw" right="27" bottom="24" left="0" top="0"/></emoticon>
 
-<!-- Additional Twitch smilies -->
-<emoticon text= "Kappa" button="yes"><source name= "kappa"  left=" 0" right=" 25" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "BabyRage" button="yes"><source name= "babyrage"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "BibleThump" button="yes"><source name= "biblethumb"  left=" 0" right=" 36" top=" 0" bottom=" 30"/></emoticon>
-<emoticon text= "PJSalt" button="yes"><source name= "pjsalt"  left=" 0" right=" 36" top=" 0" bottom=" 30"/></emoticon>
-<emoticon text= "FrankerZ" button="yes"><source name= "frankerz"  left=" 0" right=" 40" top=" 0" bottom=" 30"/></emoticon>
-<emoticon text= "Kreygasm" button="yes"><source name= "kreygasm"  left=" 0" right=" 19" top=" 0" bottom=" 27"/></emoticon>
-<emoticon text= "Keepo" button="yes"><source name= "keepo"  left=" 0" right=" 27" top=" 0" bottom=" 29"/></emoticon>
-<emoticon text= "PogChamp" button="yes"><source name= "pogchamp"  left=" 0" right=" 23" top=" 0" bottom=" 30"/></emoticon>
-<!-- Additional custom requested smilies -->
-<emoticon text= "*pika_happy*" button="yes"><source name= "pika_happy"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
-<emoticon text= "*pika_cry*" button="yes"><source name= "pika_cry"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
-<emoticon text= "*fluffle_puff*" button="yes"><source name= "fluffle"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
-<!-- end of addition -->
-		</group>
-		<group text="&wordExtraSmileys;" initial="1" >
-
 <emoticon text= "*YEEES!*" button="yes"><source name="bx" right="42" bottom="30" left="0" top="0"/></emoticon>
 <emoticon text= "*yeees!*" ><source name="bx" right="42" bottom="30" left="0" top="0"/></emoticon>
 
@@ -406,98 +388,16 @@ www.kolobok.us
 <emoticon text= "*HUNTER*" button="yes"><source name="cl" right="48" bottom="38" left="0" top="0"/></emoticon>
 <emoticon text= "*hunter*" ><source name="cl" right="48" bottom="38" left="0" top="0"/></emoticon>
 
-<emoticon text= "*GIRL_CRY*" button="yes"><source name="cm" right="38" bottom="24" left="0" top="0"/></emoticon>
-<emoticon text= "*girl_cry*" ><source name="cm" right="38" bottom="24" left="0" top="0"/></emoticon>
-<emoticon text= "*GIRL_CRAY*" ><source name="cm" right="38" bottom="24" left="0" top="0"/></emoticon>
-<emoticon text= "*girl_cray*" ><source name="cm" right="38" bottom="24" left="0" top="0"/></emoticon>
-
-<emoticon text= "*GIRL_CRAZY*" button="yes"><source name="cn" right="37" bottom="25" left="0" top="0"/></emoticon>
-<emoticon text= "*girl_crazy*" ><source name="cn" right="37" bottom="25" left="0" top="0"/></emoticon>
-
-<emoticon text= "*HOSPITAL*" button="yes"><source name="co" right="42" bottom="25" left="0" top="0"/></emoticon>
-<emoticon text= "*hospital*" ><source name="co" right="42" bottom="25" left="0" top="0"/></emoticon>
-
-<emoticon text= "*GIRL_IN_LOVE*" button="yes"><source name="cp" right="38" bottom="27" left="0" top="0"/></emoticon>
-<emoticon text= "*girl_in_love*" ><source name="cp" right="38" bottom="27" left="0" top="0"/></emoticon>
-
-<emoticon text= "*PINKGLASSES*" button="yes"><source name="cq" right="34" bottom="37" left="0" top="0"/></emoticon>
-<emoticon text= "*pinkglasses*" ><source name="cq" right="34" bottom="37" left="0" top="0"/></emoticon>
-
-<emoticon text= "*HYSTERIC*" button="yes"><source name="cr" right="41" bottom="25" left="0" top="0"/></emoticon>
-<emoticon text= "*hysteric*" ><source name="cr" right="41" bottom="25" left="0" top="0"/></emoticon>
-
-<emoticon text= "*TENDER*" button="yes"><source name="cs" right="36" bottom="23" left="0" top="0"/></emoticon>
-<emoticon text= "*tender*" ><source name="cs" right="36" bottom="23" left="0" top="0"/></emoticon>
-
-<emoticon text= "*SPRUSE_UP*" button="yes"><source name="ct" right="37" bottom="25" left="0" top="0"/></emoticon>
-<emoticon text= "*spruse_up*" ><source name="ct" right="37" bottom="25" left="0" top="0"/></emoticon>
-
-<emoticon text= "*FLIRT*" button="yes"><source name="cu" right="35" bottom="24" left="0" top="0"/></emoticon>
-<emoticon text= "*flirt*" ><source name="cu" right="35" bottom="24" left="0" top="0"/></emoticon>
-
-<emoticon text= "*GIVE_HEART*" button="yes"><source name="cv" right="28" bottom="25" left="0" top="0"/></emoticon>
-<emoticon text= "*give_heart*" ><source name="cv" right="28" bottom="25" left="0" top="0"/></emoticon>
-
-<emoticon text= "*CURTSEY*" button="yes"><source name="cw" right="38" bottom="24" left="0" top="0"/></emoticon>
-<emoticon text= "*curtsey*" ><source name="cw" right="38" bottom="24" left="0" top="0"/></emoticon>
-
-<emoticon text= "*FEMINIST*" button="yes"><source name="cx" right="54" bottom="49" left="0" top="0"/></emoticon>
-<emoticon text= "*feminist*" ><source name="cx" right="54" bottom="49" left="0" top="0"/></emoticon>
-
-<emoticon text= "*GIRL_DRINK*" button="yes"><source name="cy" right="35" bottom="25" left="0" top="0"/></emoticon>
-<emoticon text= "*girl_drink*" ><source name="cy" right="35" bottom="25" left="0" top="0"/></emoticon>
-
-<emoticon text= "*HAHA*" button="yes"><source name="cz" right="35" bottom="22" left="0" top="0"/></emoticon>
-<emoticon text= "*haha*" ><source name="cz" right="35" bottom="22" left="0" top="0"/></emoticon>
-
-<emoticon text= "*IMPOSSIBLE*" button="yes"><source name="da" right="34" bottom="23" left="0" top="0"/></emoticon>
-<emoticon text= "*impossible*" ><source name="da" right="34" bottom="23" left="0" top="0"/></emoticon>
-
-<emoticon text= "*SIGH*" button="yes"><source name="db" right="34" bottom="24" left="0" top="0"/></emoticon>
-<emoticon text= "*sigh*" ><source name="db" right="34" bottom="24" left="0" top="0"/></emoticon>
-
-<!-- Additional Kolobok smilies
-eb - girl_cray - *girl_cry2*
-ec - girl_blum - *girlP*
-ed - girl_mad - *girl_mad*
-ee - girl_sad - *girl_sad*
-ef - girl_witch - *girl_witch*
-eg - first_move - *first_move*
-eh - gamer1 - *gamer1*
-ei - locomotive - *vojta*
-ej - girl_prepare_fish - *girl_prepare_fish*
-ek - neo - *neo*
--->
-<emoticon text= "*GIRL_CRY2*" button="yes"><source name="eb" right="34" bottom="25" left="0" top="0"/></emoticon>
-<emoticon text= "*girl_cry2*" ><source name="eb" right="34" bottom="25" left="0" top="0"/></emoticon>
-
-<emoticon text= "*GIRLP*" button="yes"><source name="ec" right="34" bottom="23" left="0" top="0"/></emoticon>
-<emoticon text= "*girlP*" ><source name="ec" right="34" bottom="23" left="0" top="0"/></emoticon>
-
-<emoticon text= "*GIRL_MAD*" button="yes"><source name="ed" right="34" bottom="23" left="0" top="0"/></emoticon>
-<emoticon text= "*girl_mad*" ><source name="ed" right="34" bottom="23" left="0" top="0"/></emoticon>
-
-<emoticon text= "*GIRL_SAD*" button="yes"><source name="ee" right="34" bottom="23" left="0" top="0"/></emoticon>
-<emoticon text= "*girl_sad*" ><source name="ee" right="34" bottom="23" left="0" top="0"/></emoticon>
-
-<emoticon text= "*GIRL_WITCH*" button="yes"><source name="ef" right="46" bottom="31" left="0" top="0"/></emoticon>
-<emoticon text= "*girl_witch*" ><source name="ef" right="46" bottom="31" left="0" top="0"/></emoticon>
-
-<emoticon text= "*FIRST_MOVE*" button="yes"><source name="eg" right="55" bottom="24" left="0" top="0"/></emoticon>
-<emoticon text= "*first_move*" ><source name="eg" right="55" bottom="24" left="0" top="0"/></emoticon>
-
 <emoticon text= "*GAMER1*" button="yes"><source name="eh" right="37" bottom="27" left="0" top="0"/></emoticon>
 <emoticon text= "*gamer1*" ><source name="eh" right="37" bottom="27" left="0" top="0"/></emoticon>
+
 
 <emoticon text= "*VOJTA*" button="yes"><source name="ei" right="38" bottom="26" left="0" top="0"/></emoticon>
 <emoticon text= "*vojta*" ><source name="ei" right="38" bottom="26" left="0" top="0"/></emoticon>
 
-<emoticon text= "*GIRL_PREPARE_FISH*" button="yes"><source name="ej" right="47" bottom="26" left="0" top="0"/></emoticon>
-<emoticon text= "*girl_prepare_fish*" ><source name="ej" right="47" bottom="26" left="0" top="0"/></emoticon>
-
 <emoticon text= "*NEO*" button="yes"><source name="ek" right="33" bottom="24" left="0" top="0"/></emoticon>
 <emoticon text= "*neo*" ><source name="ek" right="33" bottom="24" left="0" top="0"/></emoticon>
-<!-- end of addition -->
+
 
 <emoticon text= "X-)" button="yes"><source name="dc" right="27" bottom="35" left="0" top="0"/></emoticon>
 <emoticon text= "x-)" ><source name="dc" right="27" bottom="35" left="0" top="0"/></emoticon>
@@ -585,13 +485,110 @@ ek - neo - *neo*
 <emoticon text= ">:e" ><source name="ea" right="54" bottom="36" left="0" top="0"/></emoticon>
 
 		</group>
+		<group text="" initial="1" >
+
+<emoticon text= ":-*" button="yes"><source name="aj" right="34" bottom="23" left="0" top="0"/></emoticon>
+<emoticon text= ":-{}" ><source name="aj" right="34" bottom="23" left="0" top="0"/></emoticon>
+		
+<emoticon text= "*GIRL_CRY*" button="yes"><source name="cm" right="38" bottom="24" left="0" top="0"/></emoticon>
+<emoticon text= "*girl_cry*" ><source name="cm" right="38" bottom="24" left="0" top="0"/></emoticon>
+<emoticon text= "*GIRL_CRAY*" ><source name="cm" right="38" bottom="24" left="0" top="0"/></emoticon>
+<emoticon text= "*girl_cray*" ><source name="cm" right="38" bottom="24" left="0" top="0"/></emoticon>
+
+<emoticon text= "*GIRL_CRAZY*" button="yes"><source name="cn" right="37" bottom="25" left="0" top="0"/></emoticon>
+<emoticon text= "*girl_crazy*" ><source name="cn" right="37" bottom="25" left="0" top="0"/></emoticon>
+
+<emoticon text= "*HOSPITAL*" button="yes"><source name="co" right="42" bottom="25" left="0" top="0"/></emoticon>
+<emoticon text= "*hospital*" ><source name="co" right="42" bottom="25" left="0" top="0"/></emoticon>
+
+<emoticon text= "*GIRL_IN_LOVE*" button="yes"><source name="cp" right="38" bottom="27" left="0" top="0"/></emoticon>
+<emoticon text= "*girl_in_love*" ><source name="cp" right="38" bottom="27" left="0" top="0"/></emoticon>
+
+<emoticon text= "*PINKGLASSES*" button="yes"><source name="cq" right="34" bottom="37" left="0" top="0"/></emoticon>
+<emoticon text= "*pinkglasses*" ><source name="cq" right="34" bottom="37" left="0" top="0"/></emoticon>
+
+<emoticon text= "*HYSTERIC*" button="yes"><source name="cr" right="41" bottom="25" left="0" top="0"/></emoticon>
+<emoticon text= "*hysteric*" ><source name="cr" right="41" bottom="25" left="0" top="0"/></emoticon>
+
+<emoticon text= "*TENDER*" button="yes"><source name="cs" right="36" bottom="23" left="0" top="0"/></emoticon>
+<emoticon text= "*tender*" ><source name="cs" right="36" bottom="23" left="0" top="0"/></emoticon>
+
+<emoticon text= "*SPRUSE_UP*" button="yes"><source name="ct" right="37" bottom="25" left="0" top="0"/></emoticon>
+<emoticon text= "*spruse_up*" ><source name="ct" right="37" bottom="25" left="0" top="0"/></emoticon>
+
+<emoticon text= "*FLIRT*" button="yes"><source name="cu" right="35" bottom="24" left="0" top="0"/></emoticon>
+<emoticon text= "*flirt*" ><source name="cu" right="35" bottom="24" left="0" top="0"/></emoticon>
+
+<emoticon text= "*GIVE_HEART*" button="yes"><source name="cv" right="28" bottom="25" left="0" top="0"/></emoticon>
+<emoticon text= "*give_heart*" ><source name="cv" right="28" bottom="25" left="0" top="0"/></emoticon>
+
+<emoticon text= "*CURTSEY*" button="yes"><source name="cw" right="38" bottom="24" left="0" top="0"/></emoticon>
+<emoticon text= "*curtsey*" ><source name="cw" right="38" bottom="24" left="0" top="0"/></emoticon>
+
+<emoticon text= "*FEMINIST*" button="yes"><source name="cx" right="54" bottom="49" left="0" top="0"/></emoticon>
+<emoticon text= "*feminist*" ><source name="cx" right="54" bottom="49" left="0" top="0"/></emoticon>
+
+<emoticon text= "*GIRL_DRINK*" button="yes"><source name="cy" right="35" bottom="25" left="0" top="0"/></emoticon>
+<emoticon text= "*girl_drink*" ><source name="cy" right="35" bottom="25" left="0" top="0"/></emoticon>
+
+<emoticon text= "*HAHA*" button="yes"><source name="cz" right="35" bottom="22" left="0" top="0"/></emoticon>
+<emoticon text= "*haha*" ><source name="cz" right="35" bottom="22" left="0" top="0"/></emoticon>
+
+<emoticon text= "*IMPOSSIBLE*" button="yes"><source name="da" right="34" bottom="23" left="0" top="0"/></emoticon>
+<emoticon text= "*impossible*" ><source name="da" right="34" bottom="23" left="0" top="0"/></emoticon>
+
+<emoticon text= "*SIGH*" button="yes"><source name="db" right="34" bottom="24" left="0" top="0"/></emoticon>
+<emoticon text= "*sigh*" ><source name="db" right="34" bottom="24" left="0" top="0"/></emoticon>
+
+<emoticon text= "*GIRL_CRY2*" button="yes"><source name="eb" right="34" bottom="25" left="0" top="0"/></emoticon>
+<emoticon text= "*girl_cry2*" ><source name="eb" right="34" bottom="25" left="0" top="0"/></emoticon>
+
+<emoticon text= "*GIRLP*" button="yes"><source name="ec" right="34" bottom="23" left="0" top="0"/></emoticon>
+<emoticon text= "*girlP*" ><source name="ec" right="34" bottom="23" left="0" top="0"/></emoticon>
+
+<emoticon text= "*GIRL_MAD*" button="yes"><source name="ed" right="34" bottom="23" left="0" top="0"/></emoticon>
+<emoticon text= "*girl_mad*" ><source name="ed" right="34" bottom="23" left="0" top="0"/></emoticon>
+
+<emoticon text= "*GIRL_SAD*" button="yes"><source name="ee" right="34" bottom="23" left="0" top="0"/></emoticon>
+<emoticon text= "*girl_sad*" ><source name="ee" right="34" bottom="23" left="0" top="0"/></emoticon>
+
+<emoticon text= "*GIRL_WITCH*" button="yes"><source name="ef" right="46" bottom="31" left="0" top="0"/></emoticon>
+<emoticon text= "*girl_witch*" ><source name="ef" right="46" bottom="31" left="0" top="0"/></emoticon>
+
+<emoticon text= "*GIRL_BYE*" button="yes"><source name="em" right="37" bottom="27" left="0" top="0"/></emoticon>
+<emoticon text= "*girl_bye*" ><source name="em" right="37" bottom="27" left="0" top="0"/></emoticon>
+
+<emoticon text= "*FIRST_MOVE*" button="yes"><source name="eg" right="55" bottom="24" left="0" top="0"/></emoticon>
+<emoticon text= "*first_move*" ><source name="eg" right="55" bottom="24" left="0" top="0"/></emoticon>
+
+<emoticon text= "*GIRL_PREPARE_FISH*" button="yes"><source name="ej" right="47" bottom="26" left="0" top="0"/></emoticon>
+<emoticon text= "*girl_prepare_fish*" ><source name="ej" right="47" bottom="26" left="0" top="0"/></emoticon>
+
+
+		</group>
+		<group text="&wordExtraSmileys;" initial="1" >
+<!-- Additional Twitch smilies -->
+<emoticon text= "Kappa" button="yes"><source name= "kappa"  left=" 0" right=" 25" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "BabyRage" button="yes"><source name= "babyrage"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "BibleThump" button="yes"><source name= "biblethumb"  left=" 0" right=" 36" top=" 0" bottom=" 30"/></emoticon>
+<emoticon text= "PJSalt" button="yes"><source name= "pjsalt"  left=" 0" right=" 36" top=" 0" bottom=" 30"/></emoticon>
+<emoticon text= "FrankerZ" button="yes"><source name= "frankerz"  left=" 0" right=" 40" top=" 0" bottom=" 30"/></emoticon>
+<emoticon text= "Kreygasm" button="yes"><source name= "kreygasm"  left=" 0" right=" 19" top=" 0" bottom=" 27"/></emoticon>
+<emoticon text= "Keepo" button="yes"><source name= "keepo"  left=" 0" right=" 27" top=" 0" bottom=" 29"/></emoticon>
+<emoticon text= "PogChamp" button="yes"><source name= "pogchamp"  left=" 0" right=" 23" top=" 0" bottom=" 30"/></emoticon>
+<!-- Additional custom requested smilies -->
+<emoticon text= "*pika_happy*" button="yes"><source name= "pika_happy"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
+<emoticon text= "*pika_cry*" button="yes"><source name= "pika_cry"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
+<emoticon text= "*fluffle_puff*" button="yes"><source name= "fluffle"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
+<!-- end of addition -->
+		</group>
 		
 	<!-- Stixe Inclusions... -->
 		&Emoticon-Extensions;
 		&iniMenuItemColor;
 		&iniIconMenuItemSettings;
 		<!-- Customise the width of the emoticon menu to your own likings instead of Stixe's default -->
-		<settings name="Width" value="450"/>
+		<settings name="Width" value="485"/>
 		
 	<!-- Emoticon Menu Font Settings -->
 		<font name="section"	source="ttfDefault"	type="&iniDefaultFontName;"	size="&iniDefaultFontSize;"/>
