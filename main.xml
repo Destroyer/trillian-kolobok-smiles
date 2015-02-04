@@ -155,8 +155,8 @@ www.kolobok.us
 <emoticon text= ";(" ><source name="ac" right="20" bottom="24" left="0" top="0"/></emoticon>
 <emoticon text= "=(" ><source name="ac" right="20" bottom="24" left="0" top="0"/></emoticon>
 
-<emoticon text= ";-)" button="yes"><source name="ad" right="20" bottom="20" left="0" top="0"/></emoticon>
-<emoticon text= ";)" ><source name="ad" right="20" bottom="20" left="0" top="0"/></emoticon>
+<emoticon text= ";-)" button="yes"><source name="ad" right="20" bottom="24" left="0" top="0"/></emoticon>
+<emoticon text= ";)" ><source name="ad" right="20" bottom="24" left="0" top="0"/></emoticon>
 
 <emoticon text= ":-P" button="yes"><source name="ae" right="20" bottom="24" left="0" top="0"/></emoticon>
 <emoticon text= ":P" ><source name="ae" right="20" bottom="24" left="0" top="0"/></emoticon>
@@ -312,12 +312,12 @@ www.kolobok.us
 <emoticon text= "*yahoo*" ><source name="bp" right="42" bottom="27" left="0" top="0"/></emoticon>
 <emoticon text= "*yahoo!*" ><source name="bp" right="42" bottom="27" left="0" top="0"/></emoticon>
 
-<emoticon text= "*HI*" button="yes"><source name="bq" right="43" bottom="27" left="0" top="0"/></emoticon>
-<emoticon text= "*PREVED*" ><source name="bq" right="43" bottom="27" left="0" top="0"/></emoticon>
-<emoticon text= "*PRIVET*" ><source name="bq" right="43" bottom="27" left="0" top="0"/></emoticon>
-<emoticon text= "*hi*" ><source name="bq" right="43" bottom="27" left="0" top="0"/></emoticon>
-<emoticon text= "*preved*" ><source name="bq" right="43" bottom="27" left="0" top="0"/></emoticon>
-<emoticon text= "*privet*" ><source name="bq" right="43" bottom="27" left="0" top="0"/></emoticon>
+<emoticon text= "*HI*" button="yes"><source name="bq" right="43" bottom="28" left="0" top="0"/></emoticon>
+<emoticon text= "*PREVED*" ><source name="bq" right="43" bottom="28" left="0" top="0"/></emoticon>
+<emoticon text= "*PRIVET*" ><source name="bq" right="43" bottom="28" left="0" top="0"/></emoticon>
+<emoticon text= "*hi*" ><source name="bq" right="43" bottom="28" left="0" top="0"/></emoticon>
+<emoticon text= "*preved*" ><source name="bq" right="43" bottom="28" left="0" top="0"/></emoticon>
+<emoticon text= "*privet*" ><source name="bq" right="43" bottom="28" left="0" top="0"/></emoticon>
 
 <emoticon text= "*BYE*" button="yes"><source name="br" right="29" bottom="24" left="0" top="0"/></emoticon>
 <emoticon text= "*bye*" ><source name="br" right="29" bottom="24" left="0" top="0"/></emoticon>
@@ -358,7 +358,7 @@ www.kolobok.us
 <emoticon text= "*fluffle_puff*" button="yes"><source name= "fluffle"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
 <!-- end of addition -->
 		</group>
-		<group text="&wordExtraSmileys;" initial="0" >
+		<group text="&wordExtraSmileys;" initial="1" >
 
 <emoticon text= "*YEEES!*" button="yes"><source name="bx" right="42" bottom="30" left="0" top="0"/></emoticon>
 <emoticon text= "*yeees!*" ><source name="bx" right="42" bottom="30" left="0" top="0"/></emoticon>
@@ -369,8 +369,8 @@ www.kolobok.us
 <emoticon text= "*BOSS*" button="yes"><source name="bz" right="38" bottom="30" left="0" top="0"/></emoticon>
 <emoticon text= "*boss*" ><source name="bz" right="38" bottom="30" left="0" top="0"/></emoticon>
 
-<emoticon text= "*SARCASTIC*" button="yes"><source name="ca" right="21" bottom="23" left="0" top="0"/></emoticon>
-<emoticon text= "*sarcastic*" ><source name="ca" right="21" bottom="23" left="0" top="0"/></emoticon>
+<emoticon text= "*SARCASTIC*" button="yes"><source name="ca" right="25" bottom="23" left="0" top="0"/></emoticon>
+<emoticon text= "*sarcastic*" ><source name="ca" right="25" bottom="23" left="0" top="0"/></emoticon>
 
 <emoticon text= "*BOAST*" button="yes"><source name="cb" right="35" bottom="25" left="0" top="0"/></emoticon>
 <emoticon text= "*boast*" ><source name="cb" right="35" bottom="25" left="0" top="0"/></emoticon>
@@ -444,8 +444,8 @@ www.kolobok.us
 <emoticon text= "*FEMINIST*" button="yes"><source name="cx" right="54" bottom="49" left="0" top="0"/></emoticon>
 <emoticon text= "*feminist*" ><source name="cx" right="54" bottom="49" left="0" top="0"/></emoticon>
 
-<emoticon text= "*GIRL_DRINK*" button="yes"><source name="cy" right="35" bottom="24" left="0" top="0"/></emoticon>
-<emoticon text= "*girl_drink*" ><source name="cy" right="35" bottom="24" left="0" top="0"/></emoticon>
+<emoticon text= "*GIRL_DRINK*" button="yes"><source name="cy" right="35" bottom="25" left="0" top="0"/></emoticon>
+<emoticon text= "*girl_drink*" ><source name="cy" right="35" bottom="25" left="0" top="0"/></emoticon>
 
 <emoticon text= "*HAHA*" button="yes"><source name="cz" right="35" bottom="22" left="0" top="0"/></emoticon>
 <emoticon text= "*haha*" ><source name="cz" right="35" bottom="22" left="0" top="0"/></emoticon>
