@@ -133,6 +133,24 @@ www.kolobok.us
 	<bitmap	name="kreygasm"		file="../../stixe/plugins/Kolobok-big-pack/kreygasm.png"/>
 	<bitmap	name="keepo"		file="../../stixe/plugins/Kolobok-big-pack/keepo.png"/>
 	<bitmap	name="pogchamp"		file="../../stixe/plugins/Kolobok-big-pack/pogchamp.png"/>
+	
+	<bitmap name="trumpw"		file="../../stixe/plugins/Kolobok-big-pack/trumpw.png"/>
+	<bitmap name="forsensleeper" file="../../stixe/plugins/Kolobok-big-pack/forsensleeper.png"/>
+	<bitmap name="forsenw"		file="../../stixe/plugins/Kolobok-big-pack/forsenw.png"/>
+	<bitmap name="reynadchamp"	file="../../stixe/plugins/Kolobok-big-pack/reynadchamp.png"/>
+	<bitmap name="smorc"		file="../../stixe/plugins/Kolobok-big-pack/smorc.png"/>
+	<bitmap name="residentsleeper" file="../../stixe/plugins/Kolobok-big-pack/residentsleeper.png"/>
+	<bitmap name="forsengasm"	file="../../stixe/plugins/Kolobok-big-pack/forsengasm.png"/>
+	<bitmap name="failfish"		file="../../stixe/plugins/Kolobok-big-pack/failfish.png"/>
+	<bitmap name="krippwtf"		file="../../stixe/plugins/Kolobok-big-pack/krippwtf.png"/>
+	<bitmap name="4head"		file="../../stixe/plugins/Kolobok-big-pack/4head.png"/>
+	<bitmap name="opieop"		file="../../stixe/plugins/Kolobok-big-pack/opieop.png"/>
+	<bitmap name="forsenboys"	file="../../stixe/plugins/Kolobok-big-pack/forsenboys.png"/>
+	<bitmap name="forsenddk"	file="../../stixe/plugins/Kolobok-big-pack/forsenddk.png"/>
+	<bitmap name="dansgame"		file="../../stixe/plugins/Kolobok-big-pack/dansgame.png"/>
+	<bitmap name="swiftrage"	file="../../stixe/plugins/Kolobok-big-pack/swiftrage.png"/>
+	<bitmap name="trihard"	file="../../stixe/plugins/Kolobok-big-pack/trihard.png"/>
+
 <!-- Additional custom requested smilies -->
 	<bitmap	name="pika_cry"		file="../../stixe/plugins/Kolobok-big-pack/pika_cry.png"/>
 	<bitmap	name="pika_happy"	file="../../stixe/plugins/Kolobok-big-pack/pika_happy.png"/>
@@ -567,7 +585,7 @@ www.kolobok.us
 
 		</group>
 		<group text="&wordExtraSmileys;" initial="1" >
-<!-- Additional Twitch smilies -->
+<!-- Additional Twitch smilies default -->
 <emoticon text= "Kappa" button="yes"><source name= "kappa"  left=" 0" right=" 25" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "BabyRage" button="yes"><source name= "babyrage"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "BibleThump" button="yes"><source name= "biblethumb"  left=" 0" right=" 36" top=" 0" bottom=" 30"/></emoticon>
@@ -576,6 +594,51 @@ www.kolobok.us
 <emoticon text= "Kreygasm" button="yes"><source name= "kreygasm"  left=" 0" right=" 19" top=" 0" bottom=" 27"/></emoticon>
 <emoticon text= "Keepo" button="yes"><source name= "keepo"  left=" 0" right=" 27" top=" 0" bottom=" 29"/></emoticon>
 <emoticon text= "PogChamp" button="yes"><source name= "pogchamp"  left=" 0" right=" 23" top=" 0" bottom=" 30"/></emoticon>
+
+<emoticon text= "4Head" button="yes"><source name= "4head"  left=" 0" right=" 20" top=" 0" bottom=" 30"/></emoticon>
+<emoticon text= "DansGame" button="yes"><source name= "dansgame"  left=" 0" right=" 25" top=" 0" bottom=" 32"/></emoticon>
+<emoticon text= "FailFish" button="yes"><source name= "failfish"  left=" 0" right=" 22" top=" 0" bottom=" 30"/></emoticon>
+<emoticon text= "forsenBoys" button="yes"><source name= "forsenboys"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "forsenDDK" button="yes"><source name= "forsenddk"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "forsenGasm" button="yes"><source name= "forsengasm"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "forsenSleeper" button="yes"><source name= "forsensleeper"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "forsenW" button="yes"><source name= "forsenw"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "krippWTF" button="yes"><source name= "krippwtf"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "OpieOP" button="yes"><source name= "opieop"  left=" 0" right=" 21" top=" 0" bottom=" 30"/></emoticon>
+<emoticon text= "ResidentSleeper" button="yes"><source name= "residentsleeper"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "reynadChamp" button="yes"><source name= "reynadchamp"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "SMOrc" button="yes"><source name= "smorc"  left=" 0" right=" 32" top=" 0" bottom=" 32"/></emoticon>
+<emoticon text= "SwiftRage" button="yes"><source name= "swiftrage"  left=" 0" right=" 21" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "trumpW" button="yes"><source name= "trumpw"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "TriHard" button="yes"><source name= "trihard"  left=" 0" right=" 24" top=" 0" bottom=" 30"/></emoticon>
+
+<!-- Additional Twitch smilies lowercase -->
+<emoticon text= "kappa"><source name= "kappa"  left=" 0" right=" 25" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "babyrage" ><source name= "babyrage"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "biblethump" ><source name= "biblethumb"  left=" 0" right=" 36" top=" 0" bottom=" 30"/></emoticon>
+<emoticon text= "pjsalt" ><source name= "pjsalt"  left=" 0" right=" 36" top=" 0" bottom=" 30"/></emoticon>
+<emoticon text= "frankerz" ><source name= "frankerz"  left=" 0" right=" 40" top=" 0" bottom=" 30"/></emoticon>
+<emoticon text= "kreygasm" ><source name= "kreygasm"  left=" 0" right=" 19" top=" 0" bottom=" 27"/></emoticon>
+<emoticon text= "keepo" ><source name= "keepo"  left=" 0" right=" 27" top=" 0" bottom=" 29"/></emoticon>
+<emoticon text= "pogchamp" ><source name= "pogchamp"  left=" 0" right=" 23" top=" 0" bottom=" 30"/></emoticon>
+
+<emoticon text= "4head" ><source name= "4head"  left=" 0" right=" 20" top=" 0" bottom=" 30"/></emoticon>
+<emoticon text= "dansgame" ><source name= "dansgame"  left=" 0" right=" 25" top=" 0" bottom=" 32"/></emoticon>
+<emoticon text= "failfish" ><source name= "failfish"  left=" 0" right=" 22" top=" 0" bottom=" 30"/></emoticon>
+<emoticon text= "forsenboys" ><source name= "forsenboys"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "forsenddk" ><source name= "forsenddk"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "forsengasm" ><source name= "forsengasm"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "forsensleeper" ><source name= "forsensleeper"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "forsenw" ><source name= "forsenw"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "krippwtf" ><source name= "krippwtf"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "opieop" ><source name= "opieop"  left=" 0" right=" 21" top=" 0" bottom=" 30"/></emoticon>
+<emoticon text= "residentsleeper" ><source name= "residentsleeper"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "reynadchamp" ><source name= "reynadchamp"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "smorc" ><source name= "smorc"  left=" 0" right=" 32" top=" 0" bottom=" 32"/></emoticon>
+<emoticon text= "swiftrage" ><source name= "swiftrage"  left=" 0" right=" 21" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "trumpw" ><source name= "trumpw"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "trihard" ><source name= "trihard"  left=" 0" right=" 24" top=" 0" bottom=" 30"/></emoticon>
+
 <!-- Additional custom requested smilies -->
 <emoticon text= "*pika_happy*" button="yes"><source name= "pika_happy"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
 <emoticon text= "*pika_cry*" button="yes"><source name= "pika_cry"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
