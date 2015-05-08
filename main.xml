@@ -645,7 +645,7 @@ www.kolobok.us
 <emoticon text= "CanYouNot" button="yes"><source name= "CanYouNot"  left=" 0" right=" 29" top=" 0" bottom=" 35"/></emoticon>
 <emoticon text= "NyanCat" button="yes"><source name= "NyanCat"  left=" 0" right=" 50" top=" 0" bottom=" 35"/></emoticon>
 <emoticon text= "Gasp3" button="yes"><source name= "Gasp3"  left=" 0" right=" 35" top=" 0" bottom=" 35"/></emoticon>
-<emoticon text= "Smug" button="yes"><source name= "Smug"  left=" 0" right=" 28" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "Smug" button="yes"><source name= "Smug"  left=" 0" right=" 41" top=" 0" bottom=" 35"/></emoticon>
 <emoticon text= "Brushy" button="yes"><source name= "Brushy"  left=" 0" right=" 33" top=" 0" bottom=" 35"/></emoticon>
 
 <!-- Additional Twitch smilies lowercase -->
@@ -690,7 +690,7 @@ www.kolobok.us
 <emoticon text= "canyounot" ><source name= "CanYounot"  left=" 0" right=" 29" top=" 0" bottom=" 35"/></emoticon>
 <emoticon text= "nyancat" ><source name= "NyanCat"  left=" 0" right=" 50" top=" 0" bottom=" 35"/></emoticon>
 <emoticon text= "gasp3" ><source name= "Gasp3"  left=" 0" right=" 35" top=" 0" bottom=" 35"/></emoticon>
-<emoticon text= "smug" ><source name= "Smug"  left=" 0" right=" 28" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "smug" ><source name= "Smug"  left=" 0" right=" 41" top=" 0" bottom=" 35"/></emoticon>
 <emoticon text= "brushy" ><source name= "Brushy"  left=" 0" right=" 33" top=" 0" bottom=" 35"/></emoticon>
 
 
