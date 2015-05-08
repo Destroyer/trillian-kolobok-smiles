@@ -155,6 +155,24 @@ www.kolobok.us
 	<bitmap	name="pika_cry"		file="../../stixe/plugins/Kolobok-big-pack/pika_cry.png"/>
 	<bitmap	name="pika_happy"	file="../../stixe/plugins/Kolobok-big-pack/pika_happy.png"/>
 	<bitmap	name="fluffle"		file="../../stixe/plugins/Kolobok-big-pack/fluffle.png"/>
+	<bitmap name="Yee" file="../../stixe/plugins/Kolobok-big-pack/120.png"/>
+	<bitmap name="Wat" file="../../stixe/plugins/Kolobok-big-pack/35.png"/>
+	<bitmap name="Pikachu" file="../../stixe/plugins/Kolobok-big-pack/29.png"/>
+	<bitmap name="Darude" file="../../stixe/plugins/Kolobok-big-pack/110.png"/>
+	<bitmap name="DickButt" file="../../stixe/plugins/Kolobok-big-pack/18.png"/>
+	<bitmap name="Dolan" file="../../stixe/plugins/Kolobok-big-pack/109.png"/>
+	<bitmap name="Hodor" file="../../stixe/plugins/Kolobok-big-pack/1.png"/>
+	<bitmap name="NotToday" file="../../stixe/plugins/Kolobok-big-pack/94.png"/>
+	<bitmap name="HKitty" file="../../stixe/plugins/Kolobok-big-pack/7.gif"/>
+	<bitmap name="Sadness" file="../../stixe/plugins/Kolobok-big-pack/13.png"/>
+	<bitmap name="Kappaspin" file="../../stixe/plugins/Kolobok-big-pack/34.gif"/>
+	<bitmap name="Kappai" file="../../stixe/plugins/Kolobok-big-pack/37.gif"/>
+	<bitmap name="NyanPasu" file="../../stixe/plugins/Kolobok-big-pack/142.png"/>
+	<bitmap name="CanYouNot" file="../../stixe/plugins/Kolobok-big-pack/93.png"/>
+	<bitmap name="NyanCat" file="../../stixe/plugins/Kolobok-big-pack/1.gif"/>
+	<bitmap name="Gasp3" file="../../stixe/plugins/Kolobok-big-pack/23.png"/>
+	<bitmap name="Smug" file="../../stixe/plugins/Kolobok-big-pack/18.png"/>
+	<bitmap name="Brushy" file="../../stixe/plugins/Kolobok-big-pack/8.gif"/>
 	
 	
 <prefs>
@@ -611,6 +629,24 @@ www.kolobok.us
 <emoticon text= "SwiftRage" button="yes"><source name= "swiftrage"  left=" 0" right=" 21" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "trumpW" button="yes"><source name= "trumpw"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "TriHard" button="yes"><source name= "trihard"  left=" 0" right=" 24" top=" 0" bottom=" 30"/></emoticon>
+<emoticon text= "Yee" button="yes"><source name= "Yee"  left=" 0" right=" 21" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "Wat" button="yes"><source name= "Wat"  left=" 0" right=" 27" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "Pikachu" button="yes"><source name= "Pikachu"  left=" 0" right=" 41" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "Darude" button="yes"><source name= "Darude"  left=" 0" right=" 29" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "DickButt" button="yes"><source name= "DickButt"  left=" 0" right=" 28" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "Dolan" button="yes"><source name= "Dolan"  left=" 0" right=" 25" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "Hodor" button="yes"><source name= "Hodor"  left=" 0" right=" 26" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "NotToday" button="yes"><source name= "NotToday"  left=" 0" right=" 29" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "HKitty" button="yes"><source name= "HKitty"  left=" 0" right=" 33" top=" 0" bottom=" 33"/></emoticon>
+<emoticon text= "Sadness" button="yes"><source name= "Sadness"  left=" 0" right=" 35" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "Kappaspin" button="yes"><source name= "Kappaspin"  left=" 0" right=" 36" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "Kappai" button="yes"><source name= "Kappai"  left=" 0" right=" 35" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "NyanPasu" button="yes"><source name= "Nyanpasu"  left=" 0" right=" 37" top=" 0" bottom=" 33"/></emoticon>
+<emoticon text= "CanYouNot" button="yes"><source name= "CanYouNot"  left=" 0" right=" 29" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "NyanCat" button="yes"><source name= "NyanCat"  left=" 0" right=" 50" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "Gasp3" button="yes"><source name= "Gasp3"  left=" 0" right=" 35" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "Smug" button="yes"><source name= "Smug"  left=" 0" right=" 28" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "Brushy" button="yes"><source name= "Brushy"  left=" 0" right=" 33" top=" 0" bottom=" 35"/></emoticon>
 
 <!-- Additional Twitch smilies lowercase -->
 <emoticon text= "kappa"><source name= "kappa"  left=" 0" right=" 25" top=" 0" bottom=" 28"/></emoticon>
@@ -638,6 +674,27 @@ www.kolobok.us
 <emoticon text= "swiftrage" ><source name= "swiftrage"  left=" 0" right=" 21" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "trumpw" ><source name= "trumpw"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "trihard" ><source name= "trihard"  left=" 0" right=" 24" top=" 0" bottom=" 30"/></emoticon>
+<emoticon text= "yee" ><source name= "Yee"  left=" 0" right=" 21" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "wat" ><source name= "Wat"  left=" 0" right=" 27" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "pikachu" ><source name= "Pikachu"  left=" 0" right=" 41" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "darude" ><source name= "Darude"  left=" 0" right=" 29" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "dickbutt" ><source name= "DickButt"  left=" 0" right=" 28" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "dolan" ><source name= "Dolan"  left=" 0" right=" 25" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "hodor" ><source name= "Hodor"  left=" 0" right=" 26" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "notToday" ><source name= "NotToday"  left=" 0" right=" 29" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "hkitty" ><source name= "HKitty"  left=" 0" right=" 33" top=" 0" bottom=" 33"/></emoticon>
+<emoticon text= "sadness" ><source name= "Sadness"  left=" 0" right=" 35" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "kappaspin" ><source name= "Kappaspin"  left=" 0" right=" 36" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "kappai" ><source name= "Kappai"  left=" 0" right=" 35" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "nyanpasu" ><source name= "NyanPasu"  left=" 0" right=" 37" top=" 0" bottom=" 33"/></emoticon>
+<emoticon text= "canyounot" ><source name= "CanYounot"  left=" 0" right=" 29" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "nyancat" ><source name= "NyanCat"  left=" 0" right=" 50" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "gasp3" ><source name= "Gasp3"  left=" 0" right=" 35" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "smug" ><source name= "Smug"  left=" 0" right=" 28" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "brushy" ><source name= "Brushy"  left=" 0" right=" 33" top=" 0" bottom=" 35"/></emoticon>
+
+
+
 
 <!-- Additional custom requested smilies -->
 <emoticon text= "*pika_happy*" button="yes"><source name= "pika_happy"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
