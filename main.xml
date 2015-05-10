@@ -153,6 +153,7 @@ www.kolobok.us
 
 <!-- Additional custom requested smilies -->
 	<bitmap	name="pika_cry"		file="../../stixe/plugins/Kolobok-big-pack/pika_cry.png"/>
+	<bitmap name="pika_sad"     file="../../stixe/plugins/Kolobok-big-pack/pika_sad.png"/> <!-- new -->
 	<bitmap	name="pika_happy"	file="../../stixe/plugins/Kolobok-big-pack/pika_happy.png"/>
 	<bitmap	name="fluffle"		file="../../stixe/plugins/Kolobok-big-pack/fluffle.png"/>
 	<bitmap name="Yee"			file="../../stixe/plugins/Kolobok-big-pack/120.png"/>
@@ -173,7 +174,11 @@ www.kolobok.us
 	<bitmap name="Gasp3"		file="../../stixe/plugins/Kolobok-big-pack/23.png"/>
 	<bitmap name="Smug"			file="../../stixe/plugins/Kolobok-big-pack/19.png"/>
 	<bitmap name="Brushy"		file="../../stixe/plugins/Kolobok-big-pack/8.gif"/>
-	
+	<bitmap name="pusheen_draw"     file="../../stixe/plugins/Kolobok-big-pack/pusheen_draw.gif"/>
+	<bitmap name="pusheen_baker"     file="../../stixe/plugins/Kolobok-big-pack/pusheen_baker.gif"/>
+	<bitmap name="pusheen_fuu"     file="../../stixe/plugins/Kolobok-big-pack/pusheen_fuu.gif"/>
+
+
 	
 <prefs>
 	<control name="emoticons" type="emoticons">
@@ -692,14 +697,20 @@ www.kolobok.us
 <emoticon text= "gasp3" ><source name= "Gasp3"  left=" 0" right=" 35" top=" 0" bottom=" 35"/></emoticon>
 <emoticon text= "smug" ><source name= "Smug"  left=" 0" right=" 41" top=" 0" bottom=" 35"/></emoticon>
 <emoticon text= "brushy" ><source name= "Brushy"  left=" 0" right=" 33" top=" 0" bottom=" 25"/></emoticon>
+	</group>
 
 
-
-
+       <group text="" initial="0" >
 <!-- Additional custom requested smilies -->
 <emoticon text= "*pika_happy*" button="yes"><source name= "pika_happy"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
+<emoticon text= "*pika_sad*" button="yes"><source name= "pika_sad"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
 <emoticon text= "*pika_cry*" button="yes"><source name= "pika_cry"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
 <emoticon text= "*fluffle_puff*" button="yes"><source name= "fluffle"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
+<emoticon text= "*pusheen_baker*" button="yes"><source name= "pusheen_baker"  left=" 0" right=" 94" top=" 0" bottom=" 73"/></emoticon>
+<emoticon text= "*pusheen_draw*" button="yes"><source name= "pusheen_draw"  left=" 0" right=" 70" top=" 0" bottom=" 59"/></emoticon>
+<emoticon text= "*pusheen_fuu*" button="yes"><source name= "pusheen_fuu"  left=" 0" right=" 84" top=" 0" bottom=" 54"/></emoticon>
+
+
 <!-- end of addition -->
 		</group>
 		
