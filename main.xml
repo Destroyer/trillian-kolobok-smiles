@@ -153,7 +153,7 @@ www.kolobok.us
 
 <!-- Additional custom requested smilies -->
 	<bitmap	name="pika_cry"		file="../../stixe/plugins/Kolobok-big-pack/pika_cry.png"/>
-	<bitmap name="pika_sad"     file="../../stixe/plugins/Kolobok-big-pack/pika_sad.png"/> <!-- new -->
+	<bitmap name="pika_sad"     file="../../stixe/plugins/Kolobok-big-pack/pika_sad.png"/>
 	<bitmap	name="pika_happy"	file="../../stixe/plugins/Kolobok-big-pack/pika_happy.png"/>
 	<bitmap	name="fluffle"		file="../../stixe/plugins/Kolobok-big-pack/fluffle.png"/>
 	<bitmap name="Yee"			file="../../stixe/plugins/Kolobok-big-pack/120.png"/>
