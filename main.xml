@@ -642,7 +642,6 @@ www.kolobok.us
 <emoticon text= "TriHard" button="yes"><source name= "trihard"  left=" 0" right=" 24" top=" 0" bottom=" 30"/></emoticon>
 <emoticon text= "Yee" button="yes"><source name= "Yee"  left=" 0" right=" 21" top=" 0" bottom=" 35"/></emoticon>
 <emoticon text= "Wat" button="yes"><source name= "Wat"  left=" 0" right=" 27" top=" 0" bottom=" 35"/></emoticon>
-<emoticon text= "Darude" button="yes"><source name= "Darude"  left=" 0" right=" 29" top=" 0" bottom=" 35"/></emoticon>
 <emoticon text= "DickButt" button="yes"><source name= "DickButt"  left=" 0" right=" 28" top=" 0" bottom=" 35"/></emoticon>
 <emoticon text= "Dolan" button="yes"><source name= "Dolan"  left=" 0" right=" 25" top=" 0" bottom=" 35"/></emoticon>
 <emoticon text= "NotToday" button="yes"><source name= "NotToday"  left=" 0" right=" 29" top=" 0" bottom=" 35"/></emoticon>
@@ -654,7 +653,7 @@ www.kolobok.us
 <emoticon text= "Smug" button="yes"><source name= "Smug"  left=" 0" right=" 41" top=" 0" bottom=" 35"/></emoticon>
 <emoticon text= "forsenX" button="yes"><source name= "forsenx"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenC" button="yes"><source name= "forsenc"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "forsenPepe" button="yes"><source name= "forseneepe"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "forsenPepe" button="yes"><source name= "forsenpepe"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenClown" button="yes"><source name= "forsenclown"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "WutFace" button="yes"><source name= "wutface"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "Scamaz" button="yes"><source name= "scamaz"  left=" 0" right=" 40" top=" 0" bottom=" 41"/></emoticon>
@@ -697,7 +696,7 @@ www.kolobok.us
 <emoticon text= "smug" ><source name= "Smug"  left=" 0" right=" 41" top=" 0" bottom=" 35"/></emoticon>
 <emoticon text= "forsenx" ><source name= "forsenx"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenc" ><source name= "forsenc"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "forsenpepe" ><source name= "forseneepe"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "forsenpepe" ><source name= "forsenpepe"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenclown" ><source name= "forsenclown"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "wutface" ><source name= "wutface"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "scamaz" ><source name= "scamaz"  left=" 0" right=" 40" top=" 0" bottom=" 41"/></emoticon>
