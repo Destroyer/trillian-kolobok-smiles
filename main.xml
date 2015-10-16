@@ -709,6 +709,17 @@ www.kolobok.us
 
        <group text="" initial="0" >
 <!-- Additional custom requested smilies -->
+<emoticon text= "kittyHappy" button="yes"><source name= "kittyhappy"  left=" 0" right=" 40" top=" 0" bottom=" 50"/></emoticon>
+<emoticon text= "kittySleep" button="yes"><source name= "kittysleep"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
+<emoticon text= "kittyBlush" button="yes"><source name= "kittyblush"  left=" 0" right=" 50" top=" 0" bottom=" 42"/></emoticon>
+<emoticon text= "kittyClap" button="yes"><source name= "kittyclap"  left=" 0" right=" 50" top=" 0" bottom=" 42"/></emoticon>
+<emoticon text= "kittyCry" button="yes"><source name= "kittycry"  left=" 0" right=" 50" top=" 0" bottom=" 43"/></emoticon>
+<emoticon text= "kittyAngry" button="yes"><source name= "kittyangry"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
+<emoticon text= "kittyMad" button="yes"><source name= "kittymad"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
+<emoticon text= "catFan" button="yes"><source name= "catfan"  left=" 0" right=" 70" top=" 0" bottom=" 60"/></emoticon>
+<emoticon text= "catDrink" button="yes"><source name= "catdrink"  left=" 0" right=" 70" top=" 0" bottom=" 60"/></emoticon>
+<emoticon text= "catEat" button="yes"><source name= "cateat"  left=" 0" right=" 70" top=" 0" bottom=" 60"/></emoticon>
+<emoticon text= "catQuestion" button="yes"><source name= "catquestion"  left=" 0" right=" 70" top=" 0" bottom=" 60"/></emoticon>
 <emoticon text= "*pika_happy*" button="yes"><source name= "pika_happy"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
 <emoticon text= "*pika_sad*" button="yes"><source name= "pika_sad"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
 <emoticon text= "*pika_cry*" button="yes"><source name= "pika_cry"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
@@ -721,17 +732,6 @@ www.kolobok.us
 <emoticon text= "*pusheen_fuu*" button="yes"><source name= "pusheen_fuu"  left=" 0" right=" 84" top=" 0" bottom=" 54"/></emoticon>
 <emoticon text= "HKitty" button="yes"><source name= "HKitty"  left=" 0" right=" 33" top=" 0" bottom=" 33"/></emoticon>
 <emoticon text= "hkitty"><source name= "HKitty"  left=" 0" right=" 33" top=" 0" bottom=" 33"/></emoticon>
-<emoticon text= "catQuestion" button="yes"><source name= "catquestion"  left=" 0" right=" 70" top=" 0" bottom=" 60"/></emoticon>
-<emoticon text= "kittyHappy" button="yes"><source name= "kittyhappy"  left=" 0" right=" 40" top=" 0" bottom=" 50"/></emoticon>
-<emoticon text= "kittySleep" button="yes"><source name= "kittysleep"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
-<emoticon text= "kittyBlush" button="yes"><source name= "kittyblush"  left=" 0" right=" 50" top=" 0" bottom=" 42"/></emoticon>
-<emoticon text= "kittyClap" button="yes"><source name= "kittyclap"  left=" 0" right=" 50" top=" 0" bottom=" 42"/></emoticon>
-<emoticon text= "kittyCry" button="yes"><source name= "kittycry"  left=" 0" right=" 50" top=" 0" bottom=" 43"/></emoticon>
-<emoticon text= "kittyAngry" button="yes"><source name= "kittyangry"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
-<emoticon text= "kittyMad" button="yes"><source name= "kittymad"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
-<emoticon text= "catFan" button="yes"><source name= "catfan"  left=" 0" right=" 70" top=" 0" bottom=" 60"/></emoticon>
-<emoticon text= "catDrink" button="yes"><source name= "catdrink"  left=" 0" right=" 70" top=" 0" bottom=" 60"/></emoticon>
-<emoticon text= "catEat" button="yes"><source name= "cateat"  left=" 0" right=" 70" top=" 0" bottom=" 60"/></emoticon>
 
 
 <!-- end of addition -->
