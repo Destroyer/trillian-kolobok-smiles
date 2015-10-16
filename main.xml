@@ -141,33 +141,33 @@ www.kolobok.us
 	<bitmap name="residentsleeper" 		file="../../stixe/plugins/Kolobok-big-pack/extra/residentsleeper.png"/>
 	<bitmap name="failfish"				file="../../stixe/plugins/Kolobok-big-pack/extra/failfish.png"/>
 	<bitmap name="opieop"				file="../../stixe/plugins/Kolobok-big-pack/extra/opieop.png"/>
-	<bitmap name="elegiggle"			file="../../stixe/plugins/Kolobok-big-pack/extra/EleGiggle.png"/>
+	<bitmap name="elegiggle"			file="../../stixe/plugins/Kolobok-big-pack/extra/elegiggle.png"/>
 	<bitmap name="dansgame"				file="../../stixe/plugins/Kolobok-big-pack/extra/dansgame.png"/>
 	<bitmap name="trumpw"				file="../../stixe/plugins/Kolobok-big-pack/extra/trumpw.png"/>
-	<bitmap name="forsenwut"			file="../../stixe/plugins/Kolobok-big-pack/extra/forsenWut.png"/>
-	<bitmap name="forsenpepe"			file="../../stixe/plugins/Kolobok-big-pack/extra/forsenPepe.png"/>
+	<bitmap name="forsenwut"			file="../../stixe/plugins/Kolobok-big-pack/extra/forsenwut.png"/>
+	<bitmap name="forsenpepe"			file="../../stixe/plugins/Kolobok-big-pack/extra/forsenpepe.png"/>
 	<bitmap name="forsensleeper" 		file="../../stixe/plugins/Kolobok-big-pack/extra/forsensleeper.png"/>
 	<bitmap name="forsenw"				file="../../stixe/plugins/Kolobok-big-pack/extra/forsenw.png"/>
 	<bitmap name="forsengasm"			file="../../stixe/plugins/Kolobok-big-pack/extra/forsengasm.png"/>
 	<bitmap name="forsenddk"			file="../../stixe/plugins/Kolobok-big-pack/extra/forsenddk.png"/>
-	<bitmap name="forsenc"				file="../../stixe/plugins/Kolobok-big-pack/extra/forsenC.png"/>
-	<bitmap name="wutface"				file="../../stixe/plugins/Kolobok-big-pack/extra/WutFace.png"/>
-	<bitmap name="forsenx"				file="../../stixe/plugins/Kolobok-big-pack/extra/forsenX.png"/>
+	<bitmap name="forsenc"				file="../../stixe/plugins/Kolobok-big-pack/extra/forsenc.png"/>
+	<bitmap name="wutface"				file="../../stixe/plugins/Kolobok-big-pack/extra/wutface.png"/>
+	<bitmap name="forsenx"				file="../../stixe/plugins/Kolobok-big-pack/extra/forsenx.png"/>
 	<bitmap name="scamaz"				file="../../stixe/plugins/Kolobok-big-pack/extra/scamaz.png"/>
 	<bitmap name="reynadchamp"			file="../../stixe/plugins/Kolobok-big-pack/extra/reynadchamp.png"/>
-	<bitmap name="gachigasm"			file="../../stixe/plugins/Kolobok-big-pack/extra/gachiGASM.png"/>
-	<bitmap name="feelsbadman"			file="../../stixe/plugins/Kolobok-big-pack/extra/FeelsBadMan.png"/>
+	<bitmap name="gachigasm"			file="../../stixe/plugins/Kolobok-big-pack/extra/gachigasm.png"/>
+	<bitmap name="feelsbadman"			file="../../stixe/plugins/Kolobok-big-pack/extra/feelsbadman.png"/>
 
 <!-- Additional custom requested smilies -->
-	<bitmap name="Yee"					file="../../stixe/plugins/Kolobok-big-pack/extra/120.png"/>
-	<bitmap name="Wat"					file="../../stixe/plugins/Kolobok-big-pack/extra/35.png"/>
-	<bitmap name="NotToday"				file="../../stixe/plugins/Kolobok-big-pack/extra/94.png"/>
-	<bitmap name="HKitty"				file="../../stixe/plugins/Kolobok-big-pack/extra/7.gif"/>
-	<bitmap name="Sadness"				file="../../stixe/plugins/Kolobok-big-pack/extra/13.png"/>
-	<bitmap name="Kappaspin"			file="../../stixe/plugins/Kolobok-big-pack/extra/34.gif"/>
-	<bitmap name="Kappai"				file="../../stixe/plugins/Kolobok-big-pack/extra/37.gif"/>
-	<bitmap name="Gasp3"				file="../../stixe/plugins/Kolobok-big-pack/extra/23.png"/>
-	<bitmap name="Smug"					file="../../stixe/plugins/Kolobok-big-pack/extra/19.png"/>
+	<bitmap name="Yee"					file="../../stixe/plugins/Kolobok-big-pack/extra/yee.png"/>
+	<bitmap name="Wat"					file="../../stixe/plugins/Kolobok-big-pack/extra/wat.png"/>
+	<bitmap name="NotToday"				file="../../stixe/plugins/Kolobok-big-pack/extra/nottoday.png"/>
+	<bitmap name="HKitty"				file="../../stixe/plugins/Kolobok-big-pack/extra/hkitty.gif"/>
+	<bitmap name="Sadness"				file="../../stixe/plugins/Kolobok-big-pack/extra/sadness.png"/>
+	<bitmap name="Kappaspin"			file="../../stixe/plugins/Kolobok-big-pack/extra/kappaspin.gif"/>
+	<bitmap name="Kappai"				file="../../stixe/plugins/Kolobok-big-pack/extra/kappai.gif"/>
+	<bitmap name="Gasp3"				file="../../stixe/plugins/Kolobok-big-pack/extra/gasp3.png"/>
+	<bitmap name="Smug"					file="../../stixe/plugins/Kolobok-big-pack/extra/smug.png"/>
 	<bitmap	name="pika_cry"				file="../../stixe/plugins/Kolobok-big-pack/extra/pika_cry.png"/>
 	<bitmap name="pika_sad"     		file="../../stixe/plugins/Kolobok-big-pack/extra/pika_sad.png"/>
 	<bitmap	name="pika_happy"			file="../../stixe/plugins/Kolobok-big-pack/extra/pika_happy.png"/>
@@ -178,18 +178,17 @@ www.kolobok.us
 	<bitmap name="pusheen_draw"			file="../../stixe/plugins/Kolobok-big-pack/extra/pusheen_draw.gif"/>
 	<bitmap name="pusheen_baker"		file="../../stixe/plugins/Kolobok-big-pack/extra/pusheen_baker.gif"/>
 	<bitmap name="pusheen_fuu"     		file="../../stixe/plugins/Kolobok-big-pack/extra/pusheen_fuu.gif"/>
-	<bitmap name="kittysleep" 			file="../../stixe/plugins/Kolobok-big-pack/extra/kittySleep.gif"/>
-	<bitmap name="kittyblush" 			file="../../stixe/plugins/Kolobok-big-pack/extra/kittyBlush.gif"/>
-	<bitmap name="kittyclap" 			file="../../stixe/plugins/Kolobok-big-pack/extra/kittyClap.gif"/>
-	<bitmap name="cateat" 				file="../../stixe/plugins/Kolobok-big-pack/extra/catEat.gif"/>
-	<bitmap name="kittyangry" 			file="../../stixe/plugins/Kolobok-big-pack/extra/kittyAngry.gif"/>
-	<bitmap name="catdrink" 			file="../../stixe/plugins/Kolobok-big-pack/extra/catDrink.gif"/>
-	<bitmap name="kittymad" 			file="../../stixe/plugins/Kolobok-big-pack/extra/kittyMad.gif"/>
-	<bitmap name="kittyhappy" 			file="../../stixe/plugins/Kolobok-big-pack/extra/kittyHappy.gif"/>
-	<bitmap name="catquestion" 			file="../../stixe/plugins/Kolobok-big-pack/extra/catQuestion.gif"/>
-	<bitmap name="kittycry" 			file="../../stixe/plugins/Kolobok-big-pack/extra/kittyCry.gif"/>
-	<bitmap name="catfan" 				file="../../stixe/plugins/Kolobok-big-pack/extra/catFan.gif"/>
-
+	<bitmap name="catfan" 				file="../../stixe/plugins/Kolobok-big-pack/extra/catfan.gif"/>
+	<bitmap name="cateat" 				file="../../stixe/plugins/Kolobok-big-pack/extra/cateat.gif"/>
+	<bitmap name="catdrink" 			file="../../stixe/plugins/Kolobok-big-pack/extra/catdrink.gif"/>
+	<bitmap name="catquestion" 			file="../../stixe/plugins/Kolobok-big-pack/extra/catquestion.gif"/>
+	<bitmap name="kittyangry" 			file="../../stixe/plugins/Kolobok-big-pack/extra/kittyangry.gif"/>
+	<bitmap name="kittymad" 			file="../../stixe/plugins/Kolobok-big-pack/extra/kittymad.gif"/>
+	<bitmap name="kittyhappy" 			file="../../stixe/plugins/Kolobok-big-pack/extra/kittyhappy.gif"/>
+	<bitmap name="kittycry" 			file="../../stixe/plugins/Kolobok-big-pack/extra/kittycry.gif"/>
+	<bitmap name="kittyclap" 			file="../../stixe/plugins/Kolobok-big-pack/extra/kittyclap.gif"/>
+	<bitmap name="kittysleep" 			file="../../stixe/plugins/Kolobok-big-pack/extra/kittysleep.gif"/>
+	<bitmap name="kittyblush" 			file="../../stixe/plugins/Kolobok-big-pack/extra/kittyblush.gif"/>
 
 
 	
