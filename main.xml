@@ -7,175 +7,185 @@ www.kolobok.us
 
 -->
 
-	<bitmap	name="aa"					file="../../stixe/plugins/trillian-kolobok-smiles/aa.gif"/>
-	<bitmap	name="ab"					file="../../stixe/plugins/trillian-kolobok-smiles/ab.gif"/>
-	<bitmap	name="ac"					file="../../stixe/plugins/trillian-kolobok-smiles/ac.gif"/>
-	<bitmap	name="ad"					file="../../stixe/plugins/trillian-kolobok-smiles/ad.gif"/>
-	<bitmap	name="ae"					file="../../stixe/plugins/trillian-kolobok-smiles/ae.gif"/>
-	<bitmap	name="af"					file="../../stixe/plugins/trillian-kolobok-smiles/af.gif"/>
-	<bitmap	name="ag"					file="../../stixe/plugins/trillian-kolobok-smiles/ag.gif"/>
-	<bitmap	name="ah"					file="../../stixe/plugins/trillian-kolobok-smiles/ah.gif"/>
-	<bitmap	name="ai"					file="../../stixe/plugins/trillian-kolobok-smiles/ai.gif"/>
-	<bitmap	name="aj"					file="../../stixe/plugins/trillian-kolobok-smiles/aj.gif"/>
-	<bitmap	name="ak"					file="../../stixe/plugins/trillian-kolobok-smiles/ak.gif"/>
-	<bitmap	name="al"					file="../../stixe/plugins/trillian-kolobok-smiles/al.gif"/>
-	<bitmap	name="am"					file="../../stixe/plugins/trillian-kolobok-smiles/am.gif"/>
-	<bitmap	name="an"					file="../../stixe/plugins/trillian-kolobok-smiles/an.gif"/>
-	<bitmap	name="ao"					file="../../stixe/plugins/trillian-kolobok-smiles/ao.gif"/>
-	<bitmap	name="ap"					file="../../stixe/plugins/trillian-kolobok-smiles/ap.gif"/>
-	<bitmap	name="aq"					file="../../stixe/plugins/trillian-kolobok-smiles/aq.gif"/>
-	<bitmap	name="ar"					file="../../stixe/plugins/trillian-kolobok-smiles/ar.gif"/>
-	<bitmap	name="as"					file="../../stixe/plugins/trillian-kolobok-smiles/as.gif"/>
-	<bitmap	name="at"					file="../../stixe/plugins/trillian-kolobok-smiles/at.gif"/>
-	<bitmap	name="au"					file="../../stixe/plugins/trillian-kolobok-smiles/au.gif"/>
-	<bitmap	name="av"					file="../../stixe/plugins/trillian-kolobok-smiles/av.gif"/>
-	<bitmap	name="aw"					file="../../stixe/plugins/trillian-kolobok-smiles/aw.gif"/>
-	<bitmap	name="ax"					file="../../stixe/plugins/trillian-kolobok-smiles/ax.gif"/>
-	<bitmap	name="ay"					file="../../stixe/plugins/trillian-kolobok-smiles/ay.gif"/>
-	<bitmap	name="az"					file="../../stixe/plugins/trillian-kolobok-smiles/az.gif"/>
-	<bitmap	name="ba"					file="../../stixe/plugins/trillian-kolobok-smiles/ba.gif"/>
-	<bitmap	name="bb"					file="../../stixe/plugins/trillian-kolobok-smiles/bb.gif"/>
-	<bitmap	name="bc"					file="../../stixe/plugins/trillian-kolobok-smiles/bc.gif"/>
-	<bitmap	name="bd"					file="../../stixe/plugins/trillian-kolobok-smiles/bd.gif"/>
-	<bitmap	name="be"					file="../../stixe/plugins/trillian-kolobok-smiles/be.gif"/>
-	<bitmap	name="bf"					file="../../stixe/plugins/trillian-kolobok-smiles/bf.gif"/>
-	<bitmap	name="bg"					file="../../stixe/plugins/trillian-kolobok-smiles/bg.gif"/>
-	<bitmap	name="bh"					file="../../stixe/plugins/trillian-kolobok-smiles/bh.gif"/>
-	<bitmap	name="bi"					file="../../stixe/plugins/trillian-kolobok-smiles/bi.gif"/>
-	<bitmap	name="bj"					file="../../stixe/plugins/trillian-kolobok-smiles/bj.gif"/>
-	<bitmap	name="bk"					file="../../stixe/plugins/trillian-kolobok-smiles/bk.gif"/>
-	<bitmap	name="bl"					file="../../stixe/plugins/trillian-kolobok-smiles/bl.gif"/>
-	<bitmap	name="bm"					file="../../stixe/plugins/trillian-kolobok-smiles/bm.gif"/>
-	<bitmap	name="bn"					file="../../stixe/plugins/trillian-kolobok-smiles/bn.gif"/>
-	<bitmap	name="bo"					file="../../stixe/plugins/trillian-kolobok-smiles/bo.gif"/>
-	<bitmap	name="bp"					file="../../stixe/plugins/trillian-kolobok-smiles/bp.gif"/>
-	<bitmap	name="bq"					file="../../stixe/plugins/trillian-kolobok-smiles/bq.gif"/>
-	<bitmap	name="br"					file="../../stixe/plugins/trillian-kolobok-smiles/br.gif"/>
-	<bitmap	name="bs"					file="../../stixe/plugins/trillian-kolobok-smiles/bs.gif"/>
-	<bitmap	name="bt"					file="../../stixe/plugins/trillian-kolobok-smiles/bt.gif"/>
-	<bitmap	name="bu"					file="../../stixe/plugins/trillian-kolobok-smiles/bu.gif"/>
-	<bitmap	name="bv"					file="../../stixe/plugins/trillian-kolobok-smiles/bv.gif"/>
-	<bitmap	name="bw"					file="../../stixe/plugins/trillian-kolobok-smiles/bw.gif"/>
-	<bitmap	name="bx"					file="../../stixe/plugins/trillian-kolobok-smiles/bx.gif"/>
-	<bitmap	name="by"					file="../../stixe/plugins/trillian-kolobok-smiles/by.gif"/>
-	<bitmap	name="bz"					file="../../stixe/plugins/trillian-kolobok-smiles/bz.gif"/>
-	<bitmap	name="ca"					file="../../stixe/plugins/trillian-kolobok-smiles/ca.gif"/>
-	<bitmap	name="cb"					file="../../stixe/plugins/trillian-kolobok-smiles/cb.gif"/>
-	<bitmap	name="cc"					file="../../stixe/plugins/trillian-kolobok-smiles/cc.gif"/>
-	<bitmap	name="cd"					file="../../stixe/plugins/trillian-kolobok-smiles/cd.gif"/>
-	<bitmap	name="ce"					file="../../stixe/plugins/trillian-kolobok-smiles/ce.gif"/>
-	<bitmap	name="cf"					file="../../stixe/plugins/trillian-kolobok-smiles/cf.gif"/>
-	<bitmap	name="cg"					file="../../stixe/plugins/trillian-kolobok-smiles/cg.gif"/>
-	<bitmap	name="ch"					file="../../stixe/plugins/trillian-kolobok-smiles/ch.gif"/>
-	<bitmap	name="ci"					file="../../stixe/plugins/trillian-kolobok-smiles/ci.gif"/>
-	<bitmap	name="cj"					file="../../stixe/plugins/trillian-kolobok-smiles/cj.gif"/>
-	<bitmap	name="ck"					file="../../stixe/plugins/trillian-kolobok-smiles/ck.gif"/>
-	<bitmap	name="cl"					file="../../stixe/plugins/trillian-kolobok-smiles/cl.gif"/>
-	<bitmap	name="cm"					file="../../stixe/plugins/trillian-kolobok-smiles/cm.gif"/>
-	<bitmap	name="cn"					file="../../stixe/plugins/trillian-kolobok-smiles/cn.gif"/>
-	<bitmap	name="co"					file="../../stixe/plugins/trillian-kolobok-smiles/co.gif"/>
-	<bitmap	name="cp"					file="../../stixe/plugins/trillian-kolobok-smiles/cp.gif"/>
-	<bitmap	name="cq"					file="../../stixe/plugins/trillian-kolobok-smiles/cq.gif"/>
-	<bitmap	name="cr"					file="../../stixe/plugins/trillian-kolobok-smiles/cr.gif"/>
-	<bitmap	name="cs"					file="../../stixe/plugins/trillian-kolobok-smiles/cs.gif"/>
-	<bitmap	name="ct"					file="../../stixe/plugins/trillian-kolobok-smiles/ct.gif"/>
-	<bitmap	name="cu"					file="../../stixe/plugins/trillian-kolobok-smiles/cu.gif"/>
-	<bitmap	name="cv"					file="../../stixe/plugins/trillian-kolobok-smiles/cv.gif"/>
-	<bitmap	name="cw"					file="../../stixe/plugins/trillian-kolobok-smiles/cw.gif"/>
-	<bitmap	name="cx"					file="../../stixe/plugins/trillian-kolobok-smiles/cx.gif"/>
-	<bitmap	name="cy"					file="../../stixe/plugins/trillian-kolobok-smiles/cy.gif"/>
-	<bitmap	name="cz"					file="../../stixe/plugins/trillian-kolobok-smiles/cz.gif"/>
-	<bitmap	name="da"					file="../../stixe/plugins/trillian-kolobok-smiles/da.gif"/>
-	<bitmap	name="db"					file="../../stixe/plugins/trillian-kolobok-smiles/db.gif"/>
-	<bitmap	name="dc"					file="../../stixe/plugins/trillian-kolobok-smiles/dc.gif"/>
-	<bitmap	name="dd"					file="../../stixe/plugins/trillian-kolobok-smiles/dd.gif"/>
-	<bitmap	name="de"					file="../../stixe/plugins/trillian-kolobok-smiles/de.gif"/>
-	<bitmap	name="df"					file="../../stixe/plugins/trillian-kolobok-smiles/df.gif"/>
-	<bitmap	name="dg"					file="../../stixe/plugins/trillian-kolobok-smiles/dg.gif"/>
-	<bitmap	name="dh"					file="../../stixe/plugins/trillian-kolobok-smiles/dh.gif"/>
-	<bitmap	name="di"					file="../../stixe/plugins/trillian-kolobok-smiles/di.gif"/>
-	<bitmap	name="dj"					file="../../stixe/plugins/trillian-kolobok-smiles/dj.gif"/>
-	<bitmap	name="dk"					file="../../stixe/plugins/trillian-kolobok-smiles/dk.gif"/>
-	<bitmap	name="dl"					file="../../stixe/plugins/trillian-kolobok-smiles/dl.gif"/>
-	<bitmap	name="dm"					file="../../stixe/plugins/trillian-kolobok-smiles/dm.gif"/>
-	<bitmap	name="dn"					file="../../stixe/plugins/trillian-kolobok-smiles/dn.gif"/>
-	<bitmap	name="do"					file="../../stixe/plugins/trillian-kolobok-smiles/do.gif"/>
-	<bitmap	name="dp"					file="../../stixe/plugins/trillian-kolobok-smiles/dp.gif"/>
-	<bitmap	name="dq"					file="../../stixe/plugins/trillian-kolobok-smiles/dq.gif"/>
-	<bitmap	name="dr"					file="../../stixe/plugins/trillian-kolobok-smiles/dr.gif"/>
-	<bitmap	name="ds"					file="../../stixe/plugins/trillian-kolobok-smiles/ds.gif"/>
-	<bitmap	name="dt"					file="../../stixe/plugins/trillian-kolobok-smiles/dt.gif"/>
-	<bitmap	name="du"					file="../../stixe/plugins/trillian-kolobok-smiles/du.gif"/>
-	<bitmap	name="dv"					file="../../stixe/plugins/trillian-kolobok-smiles/dv.gif"/>
-	<bitmap	name="dw"					file="../../stixe/plugins/trillian-kolobok-smiles/dw.gif"/>
-	<bitmap	name="dx"					file="../../stixe/plugins/trillian-kolobok-smiles/dx.gif"/>
-	<bitmap	name="dy"					file="../../stixe/plugins/trillian-kolobok-smiles/dy.gif"/>
-	<bitmap	name="dz"					file="../../stixe/plugins/trillian-kolobok-smiles/dz.gif"/>
-	<bitmap	name="ea"					file="../../stixe/plugins/trillian-kolobok-smiles/ea.gif"/>
+	<bitmap name="aa"					file="../../stixe/plugins/trillian-kolobok-smiles/aa.gif"/>
+	<bitmap name="ab"					file="../../stixe/plugins/trillian-kolobok-smiles/ab.gif"/>
+	<bitmap name="ac"					file="../../stixe/plugins/trillian-kolobok-smiles/ac.gif"/>
+	<bitmap name="ad"					file="../../stixe/plugins/trillian-kolobok-smiles/ad.gif"/>
+	<bitmap name="ae"					file="../../stixe/plugins/trillian-kolobok-smiles/ae.gif"/>
+	<bitmap name="af"					file="../../stixe/plugins/trillian-kolobok-smiles/af.gif"/>
+	<bitmap name="ag"					file="../../stixe/plugins/trillian-kolobok-smiles/ag.gif"/>
+	<bitmap name="ah"					file="../../stixe/plugins/trillian-kolobok-smiles/ah.gif"/>
+	<bitmap name="ai"					file="../../stixe/plugins/trillian-kolobok-smiles/ai.gif"/>
+	<bitmap name="aj"					file="../../stixe/plugins/trillian-kolobok-smiles/aj.gif"/>
+	<bitmap name="ak"					file="../../stixe/plugins/trillian-kolobok-smiles/ak.gif"/>
+	<bitmap name="al"					file="../../stixe/plugins/trillian-kolobok-smiles/al.gif"/>
+	<bitmap name="am"					file="../../stixe/plugins/trillian-kolobok-smiles/am.gif"/>
+	<bitmap name="an"					file="../../stixe/plugins/trillian-kolobok-smiles/an.gif"/>
+	<bitmap name="ao"					file="../../stixe/plugins/trillian-kolobok-smiles/ao.gif"/>
+	<bitmap name="ap"					file="../../stixe/plugins/trillian-kolobok-smiles/ap.gif"/>
+	<bitmap name="aq"					file="../../stixe/plugins/trillian-kolobok-smiles/aq.gif"/>
+	<bitmap name="ar"					file="../../stixe/plugins/trillian-kolobok-smiles/ar.gif"/>
+	<bitmap name="as"					file="../../stixe/plugins/trillian-kolobok-smiles/as.gif"/>
+	<bitmap name="at"					file="../../stixe/plugins/trillian-kolobok-smiles/at.gif"/>
+	<bitmap name="au"					file="../../stixe/plugins/trillian-kolobok-smiles/au.gif"/>
+	<bitmap name="av"					file="../../stixe/plugins/trillian-kolobok-smiles/av.gif"/>
+	<bitmap name="aw"					file="../../stixe/plugins/trillian-kolobok-smiles/aw.gif"/>
+	<bitmap name="ax"					file="../../stixe/plugins/trillian-kolobok-smiles/ax.gif"/>
+	<bitmap name="ay"					file="../../stixe/plugins/trillian-kolobok-smiles/ay.gif"/>
+	<bitmap name="az"					file="../../stixe/plugins/trillian-kolobok-smiles/az.gif"/>
+	<bitmap name="ba"					file="../../stixe/plugins/trillian-kolobok-smiles/ba.gif"/>
+	<bitmap name="bb"					file="../../stixe/plugins/trillian-kolobok-smiles/bb.gif"/>
+	<bitmap name="bc"					file="../../stixe/plugins/trillian-kolobok-smiles/bc.gif"/>
+	<bitmap name="bd"					file="../../stixe/plugins/trillian-kolobok-smiles/bd.gif"/>
+	<bitmap name="be"					file="../../stixe/plugins/trillian-kolobok-smiles/be.gif"/>
+	<bitmap name="bf"					file="../../stixe/plugins/trillian-kolobok-smiles/bf.gif"/>
+	<bitmap name="bg"					file="../../stixe/plugins/trillian-kolobok-smiles/bg.gif"/>
+	<bitmap name="bh"					file="../../stixe/plugins/trillian-kolobok-smiles/bh.gif"/>
+	<bitmap name="bi"					file="../../stixe/plugins/trillian-kolobok-smiles/bi.gif"/>
+	<bitmap name="bj"					file="../../stixe/plugins/trillian-kolobok-smiles/bj.gif"/>
+	<bitmap name="bk"					file="../../stixe/plugins/trillian-kolobok-smiles/bk.gif"/>
+	<bitmap name="bl"					file="../../stixe/plugins/trillian-kolobok-smiles/bl.gif"/>
+	<bitmap name="bm"					file="../../stixe/plugins/trillian-kolobok-smiles/bm.gif"/>
+	<bitmap name="bn"					file="../../stixe/plugins/trillian-kolobok-smiles/bn.gif"/>
+	<bitmap name="bo"					file="../../stixe/plugins/trillian-kolobok-smiles/bo.gif"/>
+	<bitmap name="bp"					file="../../stixe/plugins/trillian-kolobok-smiles/bp.gif"/>
+	<bitmap name="bq"					file="../../stixe/plugins/trillian-kolobok-smiles/bq.gif"/>
+	<bitmap name="br"					file="../../stixe/plugins/trillian-kolobok-smiles/br.gif"/>
+	<bitmap name="bs"					file="../../stixe/plugins/trillian-kolobok-smiles/bs.gif"/>
+	<bitmap name="bt"					file="../../stixe/plugins/trillian-kolobok-smiles/bt.gif"/>
+	<bitmap name="bu"					file="../../stixe/plugins/trillian-kolobok-smiles/bu.gif"/>
+	<bitmap name="bv"					file="../../stixe/plugins/trillian-kolobok-smiles/bv.gif"/>
+	<bitmap name="bw"					file="../../stixe/plugins/trillian-kolobok-smiles/bw.gif"/>
+	<bitmap name="bx"					file="../../stixe/plugins/trillian-kolobok-smiles/bx.gif"/>
+	<bitmap name="by"					file="../../stixe/plugins/trillian-kolobok-smiles/by.gif"/>
+	<bitmap name="bz"					file="../../stixe/plugins/trillian-kolobok-smiles/bz.gif"/>
+	<bitmap name="ca"					file="../../stixe/plugins/trillian-kolobok-smiles/ca.gif"/>
+	<bitmap name="cb"					file="../../stixe/plugins/trillian-kolobok-smiles/cb.gif"/>
+	<bitmap name="cc"					file="../../stixe/plugins/trillian-kolobok-smiles/cc.gif"/>
+	<bitmap name="cd"					file="../../stixe/plugins/trillian-kolobok-smiles/cd.gif"/>
+	<bitmap name="ce"					file="../../stixe/plugins/trillian-kolobok-smiles/ce.gif"/>
+	<bitmap name="cf"					file="../../stixe/plugins/trillian-kolobok-smiles/cf.gif"/>
+	<bitmap name="cg"					file="../../stixe/plugins/trillian-kolobok-smiles/cg.gif"/>
+	<bitmap name="ch"					file="../../stixe/plugins/trillian-kolobok-smiles/ch.gif"/>
+	<bitmap name="ci"					file="../../stixe/plugins/trillian-kolobok-smiles/ci.gif"/>
+	<bitmap name="cj"					file="../../stixe/plugins/trillian-kolobok-smiles/cj.gif"/>
+	<bitmap name="ck"					file="../../stixe/plugins/trillian-kolobok-smiles/ck.gif"/>
+	<bitmap name="cl"					file="../../stixe/plugins/trillian-kolobok-smiles/cl.gif"/>
+	<bitmap name="cm"					file="../../stixe/plugins/trillian-kolobok-smiles/cm.gif"/>
+	<bitmap name="cn"					file="../../stixe/plugins/trillian-kolobok-smiles/cn.gif"/>
+	<bitmap name="co"					file="../../stixe/plugins/trillian-kolobok-smiles/co.gif"/>
+	<bitmap name="cp"					file="../../stixe/plugins/trillian-kolobok-smiles/cp.gif"/>
+	<bitmap name="cq"					file="../../stixe/plugins/trillian-kolobok-smiles/cq.gif"/>
+	<bitmap name="cr"					file="../../stixe/plugins/trillian-kolobok-smiles/cr.gif"/>
+	<bitmap name="cs"					file="../../stixe/plugins/trillian-kolobok-smiles/cs.gif"/>
+	<bitmap name="ct"					file="../../stixe/plugins/trillian-kolobok-smiles/ct.gif"/>
+	<bitmap name="cu"					file="../../stixe/plugins/trillian-kolobok-smiles/cu.gif"/>
+	<bitmap name="cv"					file="../../stixe/plugins/trillian-kolobok-smiles/cv.gif"/>
+	<bitmap name="cw"					file="../../stixe/plugins/trillian-kolobok-smiles/cw.gif"/>
+	<bitmap name="cx"					file="../../stixe/plugins/trillian-kolobok-smiles/cx.gif"/>
+	<bitmap name="cy"					file="../../stixe/plugins/trillian-kolobok-smiles/cy.gif"/>
+	<bitmap name="cz"					file="../../stixe/plugins/trillian-kolobok-smiles/cz.gif"/>
+	<bitmap name="da"					file="../../stixe/plugins/trillian-kolobok-smiles/da.gif"/>
+	<bitmap name="db"					file="../../stixe/plugins/trillian-kolobok-smiles/db.gif"/>
+	<bitmap name="dc"					file="../../stixe/plugins/trillian-kolobok-smiles/dc.gif"/>
+	<bitmap name="dd"					file="../../stixe/plugins/trillian-kolobok-smiles/dd.gif"/>
+	<bitmap name="de"					file="../../stixe/plugins/trillian-kolobok-smiles/de.gif"/>
+	<bitmap name="df"					file="../../stixe/plugins/trillian-kolobok-smiles/df.gif"/>
+	<bitmap name="dg"					file="../../stixe/plugins/trillian-kolobok-smiles/dg.gif"/>
+	<bitmap name="dh"					file="../../stixe/plugins/trillian-kolobok-smiles/dh.gif"/>
+	<bitmap name="di"					file="../../stixe/plugins/trillian-kolobok-smiles/di.gif"/>
+	<bitmap name="dj"					file="../../stixe/plugins/trillian-kolobok-smiles/dj.gif"/>
+	<bitmap name="dk"					file="../../stixe/plugins/trillian-kolobok-smiles/dk.gif"/>
+	<bitmap name="dl"					file="../../stixe/plugins/trillian-kolobok-smiles/dl.gif"/>
+	<bitmap name="dm"					file="../../stixe/plugins/trillian-kolobok-smiles/dm.gif"/>
+	<bitmap name="dn"					file="../../stixe/plugins/trillian-kolobok-smiles/dn.gif"/>
+	<bitmap name="do"					file="../../stixe/plugins/trillian-kolobok-smiles/do.gif"/>
+	<bitmap name="dp"					file="../../stixe/plugins/trillian-kolobok-smiles/dp.gif"/>
+	<bitmap name="dq"					file="../../stixe/plugins/trillian-kolobok-smiles/dq.gif"/>
+	<bitmap name="dr"					file="../../stixe/plugins/trillian-kolobok-smiles/dr.gif"/>
+	<bitmap name="ds"					file="../../stixe/plugins/trillian-kolobok-smiles/ds.gif"/>
+	<bitmap name="dt"					file="../../stixe/plugins/trillian-kolobok-smiles/dt.gif"/>
+	<bitmap name="du"					file="../../stixe/plugins/trillian-kolobok-smiles/du.gif"/>
+	<bitmap name="dv"					file="../../stixe/plugins/trillian-kolobok-smiles/dv.gif"/>
+	<bitmap name="dw"					file="../../stixe/plugins/trillian-kolobok-smiles/dw.gif"/>
+	<bitmap name="dx"					file="../../stixe/plugins/trillian-kolobok-smiles/dx.gif"/>
+	<bitmap name="dy"					file="../../stixe/plugins/trillian-kolobok-smiles/dy.gif"/>
+	<bitmap name="dz"					file="../../stixe/plugins/trillian-kolobok-smiles/dz.gif"/>
+	<bitmap name="ea"					file="../../stixe/plugins/trillian-kolobok-smiles/ea.gif"/>
 <!-- Additional Kolobok smilies -->
-	<bitmap	name="eb"					file="../../stixe/plugins/trillian-kolobok-smiles/eb.gif"/>
-	<bitmap	name="ec"					file="../../stixe/plugins/trillian-kolobok-smiles/ec.gif"/>
-	<bitmap	name="ed"					file="../../stixe/plugins/trillian-kolobok-smiles/ed.gif"/>
-	<bitmap	name="ee"					file="../../stixe/plugins/trillian-kolobok-smiles/ee.gif"/>
-	<bitmap	name="ef"					file="../../stixe/plugins/trillian-kolobok-smiles/ef.gif"/>
-	<bitmap	name="eg"					file="../../stixe/plugins/trillian-kolobok-smiles/eg.gif"/>
-	<bitmap	name="eh"					file="../../stixe/plugins/trillian-kolobok-smiles/eh.gif"/>
-	<bitmap	name="ei"					file="../../stixe/plugins/trillian-kolobok-smiles/ei.gif"/>
-	<bitmap	name="ej"					file="../../stixe/plugins/trillian-kolobok-smiles/ej.gif"/>
-	<bitmap	name="ek"					file="../../stixe/plugins/trillian-kolobok-smiles/ek.gif"/>
-	<bitmap	name="em"					file="../../stixe/plugins/trillian-kolobok-smiles/em.gif"/>
-	<bitmap	name="en"					file="../../stixe/plugins/trillian-kolobok-smiles/en.gif"/>
+	<bitmap name="eb"					file="../../stixe/plugins/trillian-kolobok-smiles/eb.gif"/>
+	<bitmap name="ec"					file="../../stixe/plugins/trillian-kolobok-smiles/ec.gif"/>
+	<bitmap name="ed"					file="../../stixe/plugins/trillian-kolobok-smiles/ed.gif"/>
+	<bitmap name="ee"					file="../../stixe/plugins/trillian-kolobok-smiles/ee.gif"/>
+	<bitmap name="ef"					file="../../stixe/plugins/trillian-kolobok-smiles/ef.gif"/>
+	<bitmap name="eg"					file="../../stixe/plugins/trillian-kolobok-smiles/eg.gif"/>
+	<bitmap name="eh"					file="../../stixe/plugins/trillian-kolobok-smiles/eh.gif"/>
+	<bitmap name="ei"					file="../../stixe/plugins/trillian-kolobok-smiles/ei.gif"/>
+	<bitmap name="ej"					file="../../stixe/plugins/trillian-kolobok-smiles/ej.gif"/>
+	<bitmap name="ek"					file="../../stixe/plugins/trillian-kolobok-smiles/ek.gif"/>
+	<bitmap name="em"					file="../../stixe/plugins/trillian-kolobok-smiles/em.gif"/>
+	<bitmap name="en"					file="../../stixe/plugins/trillian-kolobok-smiles/en.gif"/>
 
 
 <!-- Additional Twitch smilies -->	
-	<bitmap	name="kappa"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/kappa.png"/>
-	<bitmap	name="biblethumb"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/biblethumb.png"/>
-	<bitmap	name="babyrage"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/babyrage.png"/>
-	<bitmap	name="frankerz"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/frankerz.png"/>
-	<bitmap	name="kreygasm"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/kreygasm.png"/>
-	<bitmap	name="keepo"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/keepo.png"/>
-	<bitmap	name="pogchamp"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/pogchamp.png"/>
 	<bitmap name="4head"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/4head.png"/>
-	<bitmap name="trihard"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/trihard.png"/>
+	<bitmap name="anele"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/anele.png"/>
+	<bitmap name="babyrage"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/babyrage.png"/>
+	<bitmap name="biblethumb"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/biblethumb.png"/>
+	<bitmap name="dansgame"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/dansgame.png"/>
+	<bitmap name="elegiggle"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/elegiggle.png"/>
+	<bitmap name="failfish"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/failfish.png"/>
+	<bitmap name="frankerz"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/frankerz.png"/>
+	<bitmap name="heyguys"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/heyguys.png"/>
+	<bitmap name="kappa"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/kappa.png"/>
+	<bitmap name="kappapride"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/kappapride.png"/>
+	<bitmap name="keepo"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/keepo.png"/>
+	<bitmap name="kreygasm"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/kreygasm.png"/>
+	<bitmap name="minglee"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/minglee.png"/>
+	<bitmap name="mrdestructoid"		file="../../stixe/plugins/trillian-kolobok-smiles/extra/mrdestructoid.png"/>
+	<bitmap name="omgscoots"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/omgscoots.png"/>
+	<bitmap name="opieop"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/opieop.png"/>
+	<bitmap name="pogchamp"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/pogchamp.png"/>
 	<bitmap name="smorc"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/smorc.png"/>
 	<bitmap name="residentsleeper" 		file="../../stixe/plugins/trillian-kolobok-smiles/extra/residentsleeper.png"/>
-	<bitmap name="failfish"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/failfish.png"/>
-	<bitmap name="opieop"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/opieop.png"/>
-	<bitmap name="elegiggle"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/elegiggle.png"/>
-	<bitmap name="dansgame"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/dansgame.png"/>
-	<bitmap name="trumpw"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/trumpw.png"/>
-	<bitmap name="forsenwut"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenwut.png"/>
+	<bitmap name="trihard"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/trihard.png"/>
+	<bitmap name="volcania"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/volcania.png"/>
+	<bitmap name="wutface"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/wutface.png"/>
+
+	<bitmap name="alkxd"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/alkxd.png"/>
+	<bitmap name="forsenc"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenc.png"/>
+	<bitmap name="forsenddk"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenddk.png"/>
 	<bitmap name="forsenpepe"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenpepe.png"/>
+	<bitmap name="forsensheffy"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsensheffy.png"/>
 	<bitmap name="forsensleeper" 		file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsensleeper.png"/>
 	<bitmap name="forsenw"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenw.png"/>
-	<bitmap name="forsengasm"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsengasm.png"/>
-	<bitmap name="forsenddk"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenddk.png"/>
-	<bitmap name="forsenc"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenc.png"/>
-	<bitmap name="wutface"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/wutface.png"/>
+	<bitmap name="forsenwhip" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenwhip.png"/>
+	<bitmap name="forsenwut"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenwut.png"/>
 	<bitmap name="forsenx"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenx.png"/>
-	<bitmap name="scamaz"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/scamaz.png"/>
+	<bitmap name="trumpw"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/trumpw.png"/>
 	<bitmap name="reynadchamp"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/reynadchamp.png"/>
-	<bitmap name="gachigasm"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/gachigasm.png"/>
-	<bitmap name="feelsbadman"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/feelsbadman.png"/>
-	<bitmap name="kkona"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/kkona.png"/>
-	<bitmap name="minglee"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/minglee.png"/>
+	<bitmap name="pajac"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/pajac.png"/>
+	<bitmap name="pajahappy"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/pajahappy.png"/>
+	<bitmap name="pajaw"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/pajaw.png"/>
+	<bitmap name="scamaz"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/scamaz.png"/>
+
 	<bitmap name="asmoh"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/asmoh.png"/>
-
-	<bitmap name="gaben"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/gaben.png"/>
 	<bitmap name="d"					file="../../stixe/plugins/trillian-kolobok-smiles/extra/d.png"/>
-	<bitmap name="forsenpls"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenpls.gif"/>
-	<bitmap name="alkxd"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/alkxd.png"/>
-	<bitmap name="notlikethis"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/notlikethis.png"/>
-	<bitmap name="forsensheffy"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsensheffy.png"/>
-	<bitmap name="mrdestructoid"		file="../../stixe/plugins/trillian-kolobok-smiles/extra/mrdestructoid.png"/>
-	<bitmap name="seemsgood"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/seemsgood.png"/>
-	<bitmap name="heyguys"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/heyguys.png"/>
-	<bitmap name="kappapride"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/kappapride.png"/>
-	<bitmap name="omgscoots"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/omgscoots.png"/>
-	<bitmap name="rarekona"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/rarekona.gif"/>
+	<bitmap name="feelsbirthdayman"		file="../../stixe/plugins/trillian-kolobok-smiles/extra/feelsbirthdayman.png"/>
+	<bitmap name="feelsbadman"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/feelsbadman.png"/>
 	<bitmap name="feelsgoodman"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/feelsgoodman.png"/>
+	<bitmap name="forsenpls"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenpls.gif"/>
+	<bitmap name="gaben"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/gaben.png"/>
+	<bitmap name="gachigasm"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/gachigasm.png"/>
 	<bitmap name="kkaper"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/kkaper.gif"/>
-
+	<bitmap name="kkona"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/kkona.png"/>
+	<bitmap name="lul"					file="../../stixe/plugins/trillian-kolobok-smiles/extra/lul.png"/>
+	<bitmap name="notlikethis"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/notlikethis.png"/>
+	<bitmap name="pedobear"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/pedobear.png"/>
+	<bitmap name="rarekona"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/rarekona.gif"/>
+	<bitmap name="seemsgood"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/seemsgood.png"/>
+	<bitmap name="tf"					file="../../stixe/plugins/trillian-kolobok-smiles/extra/tf.png"/>
+	
 <!-- Additional custom requested smilies -->
 	<bitmap name="Yee"					file="../../stixe/plugins/trillian-kolobok-smiles/extra/yee.png"/>
 	<bitmap name="Wat"					file="../../stixe/plugins/trillian-kolobok-smiles/extra/wat.png"/>
@@ -186,13 +196,13 @@ www.kolobok.us
 	<bitmap name="Kappai"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/kappai.gif"/>
 	<bitmap name="Gasp3"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/gasp3.png"/>
 	<bitmap name="Smug"					file="../../stixe/plugins/trillian-kolobok-smiles/extra/smug.png"/>
-	<bitmap	name="pika_cry"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/pika_cry.png"/>
+	<bitmap name="pika_cry"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/pika_cry.png"/>
 	<bitmap name="pika_sad"     		file="../../stixe/plugins/trillian-kolobok-smiles/extra/pika_sad.png"/>
-	<bitmap	name="pika_happy"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/pika_happy.png"/>
-	<bitmap	name="pika_ketchup"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/pika_ketchup.png"/>
-	<bitmap	name="pika_mad"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/pika_mad.png"/>
-	<bitmap	name="pika_urazenej"		file="../../stixe/plugins/trillian-kolobok-smiles/extra/pika_urazenej.png"/>
-	<bitmap	name="fluffle"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/fluffle.png"/>
+	<bitmap name="pika_happy"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/pika_happy.png"/>
+	<bitmap name="pika_ketchup"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/pika_ketchup.png"/>
+	<bitmap name="pika_mad"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/pika_mad.png"/>
+	<bitmap name="pika_urazenej"		file="../../stixe/plugins/trillian-kolobok-smiles/extra/pika_urazenej.png"/>
+	<bitmap name="fluffle"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/fluffle.png"/>
 	<bitmap name="pusheen_draw"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/pusheen_draw.gif"/>
 	<bitmap name="pusheen_baker"		file="../../stixe/plugins/trillian-kolobok-smiles/extra/pusheen_baker.gif"/>
 	<bitmap name="pusheen_fuu"     		file="../../stixe/plugins/trillian-kolobok-smiles/extra/pusheen_fuu.gif"/>
@@ -237,8 +247,8 @@ www.kolobok.us
 <emoticon text= "=p" ><source name="ae" right="20" bottom="24" left="0" top="0"/></emoticon>
 
 <emoticon text= "8-)" button="yes"><source name="af" right="21" bottom="21" left="0" top="0"/></emoticon>
-<emoticon text= "B)" ><source name="af" right="21" bottom="21" left="0" top="0"/></emoticon>
-<emoticon text= "b)" ><source name="af" right="21" bottom="21" left="0" top="0"/></emoticon>
+<emoticon text= "B-)" ><source name="af" right="21" bottom="21" left="0" top="0"/></emoticon>
+<emoticon text= "b-)" ><source name="af" right="21" bottom="21" left="0" top="0"/></emoticon>
 
 <emoticon text= ":-D" button="yes"><source name="ag" right="20" bottom="20" left="0" top="0"/></emoticon>
 <emoticon text= ":D" ><source name="ag" right="20" bottom="20" left="0" top="0"/></emoticon>
@@ -657,22 +667,30 @@ www.kolobok.us
 <emoticon text= "EleGiggle" button="yes"><source name= "elegiggle"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "DansGame" button="yes"><source name= "dansgame"  left=" 0" right=" 25" top=" 0" bottom=" 32"/></emoticon>
 <emoticon text= "FailFish" button="yes"><source name= "failfish"  left=" 0" right=" 22" top=" 0" bottom=" 30"/></emoticon>
+<emoticon text= "ANELE" button="yes"><source name= "anele"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "SMOrc" button="yes"><source name= "smorc"  left=" 0" right=" 32" top=" 0" bottom=" 32"/></emoticon>
 <emoticon text= "OpieOP" button="yes"><source name= "opieop"  left=" 0" right=" 21" top=" 0" bottom=" 30"/></emoticon>
 <emoticon text= "ResidentSleeper" button="yes"><source name= "residentsleeper"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "TriHard" button="yes"><source name= "trihard"  left=" 0" right=" 24" top=" 0" bottom=" 30"/></emoticon>
+<emoticon text= "HeyGuys"><source name= "heyguys"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "MrDestructoid"><source name= "mrdestructoid"  left=" 0" right=" 39" top=" 0" bottom=" 27"/></emoticon>
+<emoticon text= "Volcania"><source name= "volcania"  left=" 0" right=" 27" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "OMGScoots"><source name= "omgscoots"  left=" 0" right=" 22" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "KappaPride"><source name= "kappapride"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 
-<emoticon text= "trumpW" button="yes"><source name= "trumpw"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+
+<emoticon text= "forsenC" button="yes"><source name= "forsenc"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenWut" button="yes"><source name= "forsenwut"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenDDK" button="yes"><source name= "forsenddk"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "forsenGasm" button="yes"><source name= "forsengasm"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "forsenSleeper" button="yes"><source name= "forsensleeper"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenPepe" button="yes"><source name= "forsenpepe"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "forsenSheffy" button="yes"><source name= "forsensheffy"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "forsenSleeper" button="yes"><source name= "forsensleeper"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "forsenWhip" button="yes"><source name= "forsenwhip"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenW" button="yes"><source name= "forsenw"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenX" button="yes"><source name= "forsenx"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "forsenC" button="yes"><source name= "forsenc"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "WutFace" button="yes"><source name= "wutface"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "Scamaz" button="yes"><source name= "scamaz"  left=" 0" right=" 40" top=" 0" bottom=" 41"/></emoticon>
+<emoticon text= "trumpW" button="yes"><source name= "trumpw"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "reynadChamp" button="yes"><source name= "reynadchamp"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "Yee" button="yes"><source name= "Yee"  left=" 0" right=" 21" top=" 0" bottom=" 35"/></emoticon>
 <emoticon text= "Wat" button="yes"><source name= "Wat"  left=" 0" right=" 27" top=" 0" bottom=" 35"/></emoticon>
@@ -684,82 +702,97 @@ www.kolobok.us
 <emoticon text= "Smug" button="yes"><source name= "Smug"  left=" 0" right=" 41" top=" 0" bottom=" 35"/></emoticon>
 <emoticon text= "FeelsBadMan" button="yes"><source name= "feelsbadman"  left=" 0" right=" 30" top=" 0" bottom=" 30"/></emoticon>
 <emoticon text= "gachiGASM" button="yes"><source name= "gachigasm"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "forsenGASM" button="yes"><source name= "gachigasm"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "KKona" button="yes"><source name= "kkona"  left=" 0" right=" 25" top=" 0" bottom=" 34"/></emoticon>
 <emoticon text= "MingLee" button="yes"><source name= "minglee"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "pajaW"><source name= "pajaw"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "pajaC"><source name= "pajac"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "pajaHappy"><source name= "pajahappy"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "alkXD"><source name= "alkxd"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 
+<emoticon text= "AlkXD"><source name= "alkxd"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "asmoH"><source name= "asmoh"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "GabeN"><source name= "gaben"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "D:"><source name= "d"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenPls"><source name= "forsenpls"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "AlkXD"><source name= "alkxd"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "NotLikeThis"><source name= "notlikethis"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "forsenSheffy"><source name= "forsensheffy"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "MrDestructoid"><source name= "mrdestructoid"  left=" 0" right=" 39" top=" 0" bottom=" 27"/></emoticon>
 <emoticon text= "SeemsGood"><source name= "seemsgood"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "HeyGuys"><source name= "heyguys"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "OMGScoots"><source name= "omgscoots"  left=" 0" right=" 22" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "KappaPride"><source name= "kappapride"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "RareKona"><source name= "rarekona"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "FeelsGoodMan"><source name= "feelsgoodman"  left=" 0" right=" 30" top=" 0" bottom=" 30"/></emoticon>
 <emoticon text= "KKaper"><source name= "kkaper"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "LUL"><source name= "lul"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "*tf*"><source name= "tf"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "FeelsBirthdayMan"><source name= "feelsbirthdayman"  left=" 0" right=" 19" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "PedoBear"><source name= "pedobear"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 
 <!-- Additional Twitch smilies lowercase -->
 <emoticon text= "kappa"><source name= "kappa"  left=" 0" right=" 25" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "babyrage" ><source name= "babyrage"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "biblethump" ><source name= "biblethumb"  left=" 0" right=" 36" top=" 0" bottom=" 30"/></emoticon>
-<emoticon text= "frankerz" ><source name= "frankerz"  left=" 0" right=" 40" top=" 0" bottom=" 30"/></emoticon>
-<emoticon text= "kreygasm" ><source name= "kreygasm"  left=" 0" right=" 19" top=" 0" bottom=" 27"/></emoticon>
-<emoticon text= "keepo" ><source name= "keepo"  left=" 0" right=" 27" top=" 0" bottom=" 29"/></emoticon>
-<emoticon text= "pogchamp" ><source name= "pogchamp"  left=" 0" right=" 23" top=" 0" bottom=" 30"/></emoticon>
-<emoticon text= "4head" ><source name= "4head"  left=" 0" right=" 20" top=" 0" bottom=" 30"/></emoticon>
+<emoticon text= "babyrage"><source name= "babyrage"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "biblethump"><source name= "biblethumb"  left=" 0" right=" 36" top=" 0" bottom=" 30"/></emoticon>
+<emoticon text= "frankerz"><source name= "frankerz"  left=" 0" right=" 40" top=" 0" bottom=" 30"/></emoticon>
+<emoticon text= "kreygasm"><source name= "kreygasm"  left=" 0" right=" 19" top=" 0" bottom=" 27"/></emoticon>
+<emoticon text= "keepo"><source name= "keepo"  left=" 0" right=" 27" top=" 0" bottom=" 29"/></emoticon>
+<emoticon text= "pogchamp"><source name= "pogchamp"  left=" 0" right=" 23" top=" 0" bottom=" 30"/></emoticon>
+<emoticon text= "4head"><source name= "4head"  left=" 0" right=" 20" top=" 0" bottom=" 30"/></emoticon>
 <emoticon text= "elegiggle"><source name= "elegiggle"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "dansgame" ><source name= "dansgame"  left=" 0" right=" 25" top=" 0" bottom=" 32"/></emoticon>
-<emoticon text= "failfish" ><source name= "failfish"  left=" 0" right=" 22" top=" 0" bottom=" 30"/></emoticon>
-<emoticon text= "smorc" ><source name= "smorc"  left=" 0" right=" 32" top=" 0" bottom=" 32"/></emoticon>
-<emoticon text= "opieop" ><source name= "opieop"  left=" 0" right=" 21" top=" 0" bottom=" 30"/></emoticon>
-<emoticon text= "residentsleeper" ><source name= "residentsleeper"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "trihard" ><source name= "trihard"  left=" 0" right=" 24" top=" 0" bottom=" 30"/></emoticon>
+<emoticon text= "dansgame"><source name= "dansgame"  left=" 0" right=" 25" top=" 0" bottom=" 32"/></emoticon>
+<emoticon text= "failfish"><source name= "failfish"  left=" 0" right=" 22" top=" 0" bottom=" 30"/></emoticon>
+<emoticon text= "anele" button="yes"><source name= "anele"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "smorc"><source name= "smorc"  left=" 0" right=" 32" top=" 0" bottom=" 32"/></emoticon>
+<emoticon text= "opieop"><source name= "opieop"  left=" 0" right=" 21" top=" 0" bottom=" 30"/></emoticon>
+<emoticon text= "residentsleeper"><source name= "residentsleeper"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "trihard"><source name= "trihard"  left=" 0" right=" 24" top=" 0" bottom=" 30"/></emoticon>
+<emoticon text= "mrdestructoid"><source name= "mrdestructoid"  left=" 0" right=" 39" top=" 0" bottom=" 27"/></emoticon>
+<emoticon text= "heyguys"><source name= "heyguys"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "volcania"><source name= "volcania"  left=" 0" right=" 27" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "omgscoots"><source name= "omgscoots"  left=" 0" right=" 22" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "kappapride"><source name= "kappapride"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 
-<emoticon text= "trumpw" ><source name= "trumpw"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+
+<emoticon text= "forsenc"><source name= "forsenc"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenwut"><source name= "forsenwut"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "forsenddk" ><source name= "forsenddk"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "forsengasm" ><source name= "forsengasm"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "forsensleeper" ><source name= "forsensleeper"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "forsenpepe" ><source name= "forsenpepe"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "forsenw" ><source name= "forsenw"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "forsenx" ><source name= "forsenx"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "forsenc" ><source name= "forsenc"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "wutface" ><source name= "wutface"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "scamaz" ><source name= "scamaz"  left=" 0" right=" 40" top=" 0" bottom=" 41"/></emoticon>
-<emoticon text= "reynadchamp" ><source name= "reynadchamp"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "yee" ><source name= "Yee"  left=" 0" right=" 21" top=" 0" bottom=" 35"/></emoticon>
-<emoticon text= "wat" ><source name= "Wat"  left=" 0" right=" 27" top=" 0" bottom=" 35"/></emoticon>
-<emoticon text= "notToday" ><source name= "NotToday"  left=" 0" right=" 29" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "forsenddk"><source name= "forsenddk"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "forsenpepe"><source name= "forsenpepe"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "forsensheffy"><source name= "forsensheffy"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "forsensleeper"><source name= "forsensleeper"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "forsenwhip"><source name= "forsenwhip"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "forsenw"><source name= "forsenw"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "forsenx"><source name= "forsenx"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "wutface"><source name= "wutface"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "scamaz"><source name= "scamaz"  left=" 0" right=" 40" top=" 0" bottom=" 41"/></emoticon>
+<emoticon text= "trumpw" ><source name= "trumpw"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "reynadchamp"><source name= "reynadchamp"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "yee"><source name= "Yee"  left=" 0" right=" 21" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "wat"><source name= "Wat"  left=" 0" right=" 27" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "notToday"><source name= "NotToday"  left=" 0" right=" 29" top=" 0" bottom=" 35"/></emoticon>
 <emoticon text= "sadness" ><source name= "Sadness"  left=" 0" right=" 35" top=" 0" bottom=" 35"/></emoticon>
-<emoticon text= "kappaspin" ><source name= "Kappaspin"  left=" 0" right=" 36" top=" 0" bottom=" 35"/></emoticon>
-<emoticon text= "kappai" ><source name= "Kappai"  left=" 0" right=" 35" top=" 0" bottom=" 35"/></emoticon>
-<emoticon text= "gasp3" ><source name= "Gasp3"  left=" 0" right=" 35" top=" 0" bottom=" 35"/></emoticon>
-<emoticon text= "smug" ><source name= "Smug"  left=" 0" right=" 41" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "kappaspin"><source name= "Kappaspin"  left=" 0" right=" 36" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "kappai"><source name= "Kappai"  left=" 0" right=" 35" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "gasp3"><source name= "Gasp3"  left=" 0" right=" 35" top=" 0" bottom=" 35"/></emoticon>
+<emoticon text= "smug"><source name= "Smug"  left=" 0" right=" 41" top=" 0" bottom=" 35"/></emoticon>
 <emoticon text= "feelsbadman"><source name= "feelsbadman"  left=" 0" right=" 30" top=" 0" bottom=" 30"/></emoticon>
 <emoticon text= "gachigasm"><source name= "gachigasm"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "forsengasm"><source name= "gachigasm"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "kkona"><source name= "kkona"  left=" 0" right=" 25" top=" 0" bottom=" 34"/></emoticon>
 <emoticon text= "minglee"><source name= "minglee"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "pajaw"><source name= "pajaw"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "pajac"><source name= "pajac"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "pajahappy"><source name= "pajahappy"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 
+<emoticon text= "alkxd"><source name= "alkxd"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "asmoh"><source name= "asmoh"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "gaben"><source name= "gaben"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "d:"><source name= "d"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenpls"><source name= "forsenpls"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "alkxd"><source name= "alkxd"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "notlikethis"><source name= "notlikethis"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "forsensheffy"><source name= "forsensheffy"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "mrdestructoid"><source name= "mrdestructoid"  left=" 0" right=" 39" top=" 0" bottom=" 27"/></emoticon>
 <emoticon text= "seemsgood"><source name= "seemsgood"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "heyguys"><source name= "heyguys"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "omgscoots"><source name= "omgscoots"  left=" 0" right=" 22" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "kappapride"><source name= "kappapride"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "rarekona"><source name= "rarekona"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "feelsgoodman"><source name= "feelsgoodman"  left=" 0" right=" 30" top=" 0" bottom=" 30"/></emoticon>
 <emoticon text= "kkaper"><source name= "kkaper"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "lul"><source name= "lul"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "feelsbirthdayman"><source name= "feelsbirthdayman"  left=" 0" right=" 19" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "pedobear"><source name= "pedobear"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+
 	</group>
 
 
