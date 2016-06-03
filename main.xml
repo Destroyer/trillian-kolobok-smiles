@@ -234,7 +234,6 @@ www.kolobok.us
 	
 <prefs>
 	<control name="emoticons" type="emoticons">
-	
 		<group text="&wordBasicSmileys;" initial="1" >
 
 <emoticon text= ":-)" button="yes"><source name="ab" right="20" bottom="24" left="0" top="0"/></emoticon>
@@ -816,11 +815,20 @@ www.kolobok.us
 <emoticon text= "feelsbirthdayman"><source name= "feelsbirthdayman"  left=" 0" right=" 19" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "pedobear"><source name= "pedobear"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "vapenation" ><source name= "vapenation"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-	</group>
+		</group>
 
 
-       <group text="" initial="0" >
+
 <!-- Additional custom requested smilies -->
+		<group text="" initial="1" >
+<emoticon text= "*huz*" button="yes"><source name= "huz"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
+<emoticon text= "*jjjj*" button="yes"><source name= "jjjj"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
+<emoticon text= "*nbeo_debil*" button="yes"><source name= "nbeo_debil"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
+<emoticon text= "*vaclaf*" button="yes"><source name= "vaclaf"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
+<emoticon text= "*ziska*" button="yes"><source name= "ziska"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
+<emoticon text= "*zmikund*" button="yes"><source name= "zmikund"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
+		</group>
+    	<group text="" initial="0" >
 <emoticon text= "kittyHappy" button="yes"><source name= "kittyhappy"  left=" 0" right=" 40" top=" 0" bottom=" 50"/></emoticon>
 <emoticon text= "kittySleep" button="yes"><source name= "kittysleep"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
 <emoticon text= "kittyBlush" button="yes"><source name= "kittyblush"  left=" 0" right=" 50" top=" 0" bottom=" 42"/></emoticon>
@@ -844,14 +852,6 @@ www.kolobok.us
 <emoticon text= "*pusheen_fuu*" button="yes"><source name= "pusheen_fuu"  left=" 0" right=" 84" top=" 0" bottom=" 54"/></emoticon>
 <emoticon text= "HKitty" button="yes"><source name= "HKitty"  left=" 0" right=" 33" top=" 0" bottom=" 33"/></emoticon>
 <emoticon text= "hkitty"><source name= "HKitty"  left=" 0" right=" 33" top=" 0" bottom=" 33"/></emoticon>
-	</group>
-	<group text="" initial="1" >
-<emoticon text= "*huz*" button="yes"><source name= "huz"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
-<emoticon text= "*jjjj*" button="yes"><source name= "jjjj"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
-<emoticon text= "*nbeo_debil*" button="yes"><source name= "nbeo_debil"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
-<emoticon text= "*vaclaf*" button="yes"><source name= "vaclaf"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
-<emoticon text= "*ziska*" button="yes"><source name= "ziska"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
-<emoticon text= "*zmikund*" button="yes"><source name= "zmikund"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
 <!-- end of addition -->
 		</group>
 		
