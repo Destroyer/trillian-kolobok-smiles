@@ -815,7 +815,7 @@ www.kolobok.us
 <emoticon text= "lul"><source name= "lul"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "feelsbirthdayman"><source name= "feelsbirthdayman"  left=" 0" right=" 19" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "pedobear"><source name= "pedobear"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "vapenation" button="yes"><source name= "vapenation"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "vapenation" ><source name= "vapenation"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 	</group>
 
 
