@@ -844,14 +844,14 @@ www.kolobok.us
 <emoticon text= "*pusheen_fuu*" button="yes"><source name= "pusheen_fuu"  left=" 0" right=" 84" top=" 0" bottom=" 54"/></emoticon>
 <emoticon text= "HKitty" button="yes"><source name= "HKitty"  left=" 0" right=" 33" top=" 0" bottom=" 33"/></emoticon>
 <emoticon text= "hkitty"><source name= "HKitty"  left=" 0" right=" 33" top=" 0" bottom=" 33"/></emoticon>
-<emoticon text= "*huz*"><source name= "huz"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
-<emoticon text= "*jjjj*"><source name= "jjjj"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
-<emoticon text= "*nbeo_debil*"><source name= "nbeo_debil"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
-<emoticon text= "*vaclaf*"><source name= "vaclaf"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
-<emoticon text= "*ziska*"><source name= "ziska"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
-<emoticon text= "*zmikund*"><source name= "zmikund"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
-
-
+	</group>
+	<group text="" initial="1" >
+<emoticon text= "*huz*" button="yes"><source name= "huz"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
+<emoticon text= "*jjjj*" button="yes"><source name= "jjjj"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
+<emoticon text= "*nbeo_debil*" button="yes"><source name= "nbeo_debil"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
+<emoticon text= "*vaclaf*" button="yes"><source name= "vaclaf"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
+<emoticon text= "*ziska*" button="yes"><source name= "ziska"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
+<emoticon text= "*zmikund*" button="yes"><source name= "zmikund"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
 <!-- end of addition -->
 		</group>
 		
