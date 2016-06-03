@@ -127,7 +127,7 @@ www.kolobok.us
 	<bitmap name="en"					file="../../stixe/plugins/trillian-kolobok-smiles/en.gif"/>
 
 
-<!-- Additional Twitch smilies -->	
+<!-- Twitch emotes -->	
 	<bitmap name="4head"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/4head.png"/>
 	<bitmap name="anele"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/anele.png"/>
 	<bitmap name="babyrage"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/babyrage.png"/>
@@ -154,7 +154,7 @@ www.kolobok.us
 	<bitmap name="vaultboy"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/vaultboy.png"/>
 	<bitmap name="volcania"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/volcania.png"/>
 	<bitmap name="wutface"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/wutface.png"/>
-
+<!-- Twitch Subscription emotes -->
 	<bitmap name="alkxd"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/alkxd.png"/>
 	<bitmap name="forsenc"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenc.png"/>
 	<bitmap name="forsenddk"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenddk.png"/>
@@ -173,7 +173,7 @@ www.kolobok.us
 	<bitmap name="pajahappy"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/pajahappy.png"/>
 	<bitmap name="pajaw"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/pajaw.png"/>
 	<bitmap name="scamaz"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/scamaz.png"/>
-
+<!-- BTTV emotes -->
 	<bitmap name="asmoh"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/asmoh.png"/>
 	<bitmap name="d"					file="../../stixe/plugins/trillian-kolobok-smiles/extra/d.png"/>
 	<bitmap name="feelsbirthdayman"		file="../../stixe/plugins/trillian-kolobok-smiles/extra/feelsbirthdayman.png"/>
@@ -191,10 +191,8 @@ www.kolobok.us
 	<bitmap name="rarekona"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/rarekona.gif"/>
 	<bitmap name="seemsgood"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/seemsgood.png"/>
 	<bitmap name="tf"					file="../../stixe/plugins/trillian-kolobok-smiles/extra/tf.png"/>
-
-	
-
-<!-- Additional custom requested smilies -->
+	<bitmap name="vapenation"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/vapenation.png"/>
+<!-- Additional custom emotes -->
 	<bitmap name="Yee"					file="../../stixe/plugins/trillian-kolobok-smiles/extra/yee.png"/>
 	<bitmap name="Wat"					file="../../stixe/plugins/trillian-kolobok-smiles/extra/wat.png"/>
 	<bitmap name="NotToday"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/nottoday.png"/>
@@ -225,6 +223,12 @@ www.kolobok.us
 	<bitmap name="kittyclap" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra/kittyclap.gif"/>
 	<bitmap name="kittysleep" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra/kittysleep.gif"/>
 	<bitmap name="kittyblush" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra/kittyblush.gif"/>
+	<bitmap name="huz" 					file="../../stixe/plugins/trillian-kolobok-smiles/extra/huz.png"/>
+	<bitmap name="jjjj" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/jjjj.png"/>
+	<bitmap name="nbeo_debil" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra/nbeo_debil.png"/>
+	<bitmap name="vaclaf" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/vaclaf.png"/>
+	<bitmap name="ziska" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/ziska.png"/>
+	<bitmap name="zmikund" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/zmikund.png"/>
 
 
 	
@@ -714,9 +718,9 @@ www.kolobok.us
 <emoticon text= "Smug" button="yes"><source name= "Smug"  left=" 0" right=" 41" top=" 0" bottom=" 35"/></emoticon>
 <emoticon text= "FeelsBadMan" button="yes"><source name= "feelsbadman"  left=" 0" right=" 30" top=" 0" bottom=" 30"/></emoticon>
 <emoticon text= "gachiGASM" button="yes"><source name= "gachigasm"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "forsenGASM" button="yes"><source name= "gachigasm"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "KKona" button="yes"><source name= "kkona"  left=" 0" right=" 25" top=" 0" bottom=" 34"/></emoticon>
 <emoticon text= "MingLee" button="yes"><source name= "minglee"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "forsenGASM"><source name= "gachigasm"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "pajaW"><source name= "pajaw"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "pajaC"><source name= "pajac"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "pajaHappy"><source name= "pajahappy"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
@@ -738,6 +742,7 @@ www.kolobok.us
 <emoticon text= "*tf*"><source name= "tf"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "FeelsBirthdayMan"><source name= "feelsbirthdayman"  left=" 0" right=" 19" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "PedoBear"><source name= "pedobear"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "VapeNation" button="yes"><source name= "vapenation"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 
 <!-- Additional Twitch smilies lowercase -->
 <emoticon text= "kappa"><source name= "kappa"  left=" 0" right=" 25" top=" 0" bottom=" 28"/></emoticon>
@@ -766,7 +771,7 @@ www.kolobok.us
 <emoticon text= "vaultboy"><source name= "vaultboy"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 
 <emoticon text= "forsenc"><source name= "forsenc"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "forsene" button="yes"><source name= "forsene"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "forsene" ><source name= "forsene"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenwut"><source name= "forsenwut"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenddk"><source name= "forsenddk"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenpepe"><source name= "forsenpepe"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
@@ -810,7 +815,7 @@ www.kolobok.us
 <emoticon text= "lul"><source name= "lul"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "feelsbirthdayman"><source name= "feelsbirthdayman"  left=" 0" right=" 19" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "pedobear"><source name= "pedobear"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-
+<emoticon text= "vapenation" button="yes"><source name= "vapenation"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 	</group>
 
 
@@ -839,6 +844,12 @@ www.kolobok.us
 <emoticon text= "*pusheen_fuu*" button="yes"><source name= "pusheen_fuu"  left=" 0" right=" 84" top=" 0" bottom=" 54"/></emoticon>
 <emoticon text= "HKitty" button="yes"><source name= "HKitty"  left=" 0" right=" 33" top=" 0" bottom=" 33"/></emoticon>
 <emoticon text= "hkitty"><source name= "HKitty"  left=" 0" right=" 33" top=" 0" bottom=" 33"/></emoticon>
+<emoticon text= "*huz*"><source name= "huz"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
+<emoticon text= "*jjjj*"><source name= "jjjj"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
+<emoticon text= "*nbeo_debil*"><source name= "nbeo_debil"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
+<emoticon text= "*vaclaf*"><source name= "vaclaf"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
+<emoticon text= "*ziska*"><source name= "ziska"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
+<emoticon text= "*zmikund*"><source name= "zmikund"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
 
 
 <!-- end of addition -->
