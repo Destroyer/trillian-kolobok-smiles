@@ -860,7 +860,7 @@ www.kolobok.us
 		&iniMenuItemColor;
 		&iniIconMenuItemSettings;
 		<!-- Customise the width of the emoticon menu to your own likings instead of Stixe's default -->
-		<settings name="Width" value="485"/>
+		<settings name="Width" value="550"/>
 		
 	<!-- Emoticon Menu Font Settings -->
 		<font name="section"	source="ttfDefault"	type="&iniDefaultFontName;"	size="&iniDefaultFontSize;"/>
