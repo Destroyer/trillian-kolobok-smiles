@@ -234,12 +234,12 @@ www.kolobok.us
 	
 <prefs>
 	<control name="emoticons" type="emoticons">
-		<group text="&wordBasicSmileys;" initial="1" >
+		<group text="&wordBasicSmileys;" initial="1" background="kolobok">
 
 <emoticon text= ":-)" button="yes"><source name="ab" right="20" bottom="24" left="0" top="0"/></emoticon>
 <emoticon text= ":)" ><source name="ab" right="20" bottom="24" left="0" top="0"/></emoticon>
 <emoticon text= "=)" ><source name="ab" right="20" bottom="24" left="0" top="0"/></emoticon>
-<emoticon text= "☺" ><source name="ab" right="20" bottom="24" left="0" top="0"/></emoticon>
+<emoticon text= "âş" ><source name="ab" right="20" bottom="24" left="0" top="0"/></emoticon>
 
 <emoticon text= ":-(" button="yes"><source name="ac" right="20" bottom="24" left="0" top="0"/></emoticon>
 <emoticon text= ":(" ><source name="ac" right="20" bottom="24" left="0" top="0"/></emoticon>
@@ -248,7 +248,7 @@ www.kolobok.us
 
 <emoticon text= ";-)" button="yes"><source name="ad" right="20" bottom="24" left="0" top="0"/></emoticon>
 <emoticon text= ";)" ><source name="ad" right="20" bottom="24" left="0" top="0"/></emoticon>
-<emoticon text= "😉" ><source name="ad" right="20" bottom="24" left="0" top="0"/></emoticon>
+<emoticon text= "đź‰" ><source name="ad" right="20" bottom="24" left="0" top="0"/></emoticon>
 
 <emoticon text= ":-P" button="yes"><source name="ae" right="20" bottom="24" left="0" top="0"/></emoticon>
 <emoticon text= ":P" ><source name="ae" right="20" bottom="24" left="0" top="0"/></emoticon>
@@ -267,7 +267,7 @@ www.kolobok.us
 <emoticon text= ":-d"><source name="ag" right="20" bottom="20" left="0" top="0"/></emoticon>
 <emoticon text= ":d" ><source name="ag" right="20" bottom="20" left="0" top="0"/></emoticon>
 <emoticon text= "=d" ><source name="ag" right="20" bottom="20" left="0" top="0"/></emoticon>
-<emoticon text= "😀" ><source name="ag" right="20" bottom="20" left="0" top="0"/></emoticon>
+<emoticon text= "đź€" ><source name="ag" right="20" bottom="20" left="0" top="0"/></emoticon>
 
 <emoticon text= ":-[" button="yes"><source name="ah" right="25" bottom="25" left="0" top="0"/></emoticon>
 
@@ -286,7 +286,7 @@ www.kolobok.us
 
 <emoticon text= "O:-)" button="yes"><source name="aa" right="27" bottom="23" left="0" top="0"/></emoticon>
 <emoticon text= "O=)" ><source name="aa" right="27" bottom="23" left="0" top="0"/></emoticon>
-<emoticon text= "😇" ><source name="aa" right="27" bottom="23" left="0" top="0"/></emoticon>
+<emoticon text= "đź‡" ><source name="aa" right="27" bottom="23" left="0" top="0"/></emoticon>
 
 
 <emoticon text= ":'(" button="yes"><source name="ak" right="31" bottom="23" left="0" top="0"/></emoticon>
@@ -315,7 +315,7 @@ www.kolobok.us
 <emoticon text= ">:]" ><source name="aq" right="39" bottom="34" left="0" top="0"/></emoticon>
 <emoticon text= "*DIABLO*" ><source name="aq" right="39" bottom="34" left="0" top="0"/></emoticon>
 <emoticon text= "*diablo*" ><source name="aq" right="39" bottom="34" left="0" top="0"/></emoticon>
-<emoticon text= "😈" ><source name="aq" right="39" bottom="34" left="0" top="0"/></emoticon>
+<emoticon text= "đź" ><source name="aq" right="39" bottom="34" left="0" top="0"/></emoticon>
 
 <emoticon text= "[:-}" button="yes"><source name="ar" right="28" bottom="25" left="0" top="0"/></emoticon>
 <emoticon text= "[:}" ><source name="ar" right="28" bottom="25" left="0" top="0"/></emoticon>
@@ -366,7 +366,7 @@ www.kolobok.us
 
 <emoticon text= "%)" button="yes"><source name="be" right="20" bottom="24" left="0" top="0"/></emoticon>
 <emoticon text= "%-)" ><source name="be" right="20" bottom="24" left="0" top="0"/></emoticon>
-<emoticon text= "😕" ><source name="be" right="20" bottom="24" left="0" top="0"/></emoticon>
+<emoticon text= "đź•" ><source name="be" right="20" bottom="24" left="0" top="0"/></emoticon>
 
 <emoticon text= "*OK*" button="yes"><source name="bf" right="40" bottom="26" left="0" top="0"/></emoticon>
 <emoticon text= "*ok*"><source name="bf" right="40" bottom="26" left="0" top="0"/></emoticon>
@@ -384,7 +384,7 @@ www.kolobok.us
 
 <emoticon text= "*ROFL*" button="yes"><source name="bj" right="29" bottom="25" left="0" top="0"/></emoticon>
 <emoticon text= "*rofl*" ><source name="bj" right="29" bottom="25" left="0" top="0"/></emoticon>
-<emoticon text= "😂" ><source name="bj" right="29" bottom="25" left="0" top="0"/></emoticon>
+<emoticon text= "đź‚" ><source name="bj" right="29" bottom="25" left="0" top="0"/></emoticon>
 
 <emoticon text= "*PARDON*" button="yes"><source name="bk" right="36" bottom="26" left="0" top="0"/></emoticon>
 <emoticon text= "*pardon*"><source name="bk" right="36" bottom="26" left="0" top="0"/></emoticon>
@@ -568,7 +568,7 @@ www.kolobok.us
 
 <emoticon text= "*LOL*" button="yes"><source name="dy" right="20" bottom="20" left="0" top="0"/></emoticon>
 <emoticon text= "*lol*" ><source name="dy" right="20" bottom="20" left="0" top="0"/></emoticon>
-<emoticon text= "😆" ><source name="dy" right="20" bottom="20" left="0" top="0"/></emoticon>
+<emoticon text= "đź†" ><source name="dy" right="20" bottom="20" left="0" top="0"/></emoticon>
 
 <emoticon text= "*HAPPY*" button="yes"><source name="dz" right="26" bottom="24" left="0" top="0"/></emoticon>
 <emoticon text= "*happy*" ><source name="dz" right="26" bottom="24" left="0" top="0"/></emoticon>
@@ -665,7 +665,7 @@ www.kolobok.us
 <emoticon text= "*girl_prepare_fish*" ><source name="ej" right="47" bottom="26" left="0" top="0"/></emoticon>
 
 		</group>
-		<group text="&wordExtraSmileys;" initial="1" >
+		<group text="&wordExtraSmileys;" initial="1" background="twitch">
 <!-- Additional Twitch smilies default -->
 <emoticon text= "Kappa" button="yes"><source name= "kappa"  left=" 0" right=" 25" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "BabyRage" button="yes"><source name= "babyrage"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
@@ -860,10 +860,39 @@ www.kolobok.us
 		&iniMenuItemColor;
 		&iniIconMenuItemSettings;
 		<!-- Customise the width of the emoticon menu to your own likings instead of Stixe's default -->
-		<settings name="Width" value="550"/>
+		<background name="kolobok" state="flat">
+			<source name="ab" left="0" top="0" right="27" bottom="23"/>
+		</background>
+		<background name="kolobok" state="over">
+			<source name="ab" left="0" top="0" right="27" bottom="23"/>
+		</background>
+		<background name="kolobok" state="push">
+			<source name="ab" left="0" top="0" right="27" bottom="23"/>
+		</background>
+		<background name="twitch" state="flat">
+			<source name="kappa" left="0" top="0" right="25" bottom="28"/>
+		</background>
+		<background name="twitch" state="over">
+			<source name="kappa" left="0" top="0" right="25" bottom="28"/>
+		</background>
+		<background name="twitch" state="push">
+			<source name="kappa" left="0" top="0" right="25" bottom="28"/>
+		</background>		
 		
+		<settings name="Width" value="550"/>
+		<settings name="height" value="400"/>
+		<settings name="sectionLeftMargin" value="5"/>
+		<settings name="sectionTopMargin" value="5"/>
+		<settings name="sectionRightMargin" value="5"/>
+		<settings name="sectionBottomMargin" value="5"/>
 	<!-- Emoticon Menu Font Settings -->
 		<font name="section"	source="ttfDefault"	type="&iniDefaultFontName;"	size="&iniDefaultFontSize;"/>
-		
+		<color name="group-fore" red="170" green="170" blue="170"/>
+		<color name="group-back" red="255" green="255" blue="255"/>
+		<color name="footer-fore" red="0" green="0" blue="0"/>
+		<color name="footer-back" red="245" green="245" blue="245"/>
+		<color name="scrollbar-normal-fore" red="235" green="235" blue="235"/>
+		<color name="scrollbar-hover-fore" red="164" green="164" blue="164"/>
+		<color name="scrollbar-select-fore" red="164" green="164" blue="164"/>
 	</control>
 </prefs>
