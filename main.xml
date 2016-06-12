@@ -229,6 +229,7 @@ www.kolobok.us
 	<bitmap name="vaclaf" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/vaclaf.png"/>
 	<bitmap name="ziska" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/ziska.png"/>
 	<bitmap name="zmikund" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/zmikund.png"/>
+	<bitmap name="sponge" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/sponge.png"/>
 
 
 	
@@ -852,6 +853,8 @@ www.kolobok.us
 <emoticon text= "*pusheen_fuu*" button="yes"><source name= "pusheen_fuu"  left=" 0" right=" 84" top=" 0" bottom=" 54"/></emoticon>
 <emoticon text= "HKitty" button="yes"><source name= "HKitty"  left=" 0" right=" 33" top=" 0" bottom=" 33"/></emoticon>
 <emoticon text= "hkitty"><source name= "HKitty"  left=" 0" right=" 33" top=" 0" bottom=" 33"/></emoticon>
+<emoticon text= "*sponge*"><source name= "sponge"  left=" 0" right=" 83" top=" 0" bottom=" 50"/></emoticon>
+
 <!-- end of addition -->
 		</group>
 		
