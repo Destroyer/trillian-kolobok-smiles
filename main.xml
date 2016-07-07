@@ -232,21 +232,21 @@ www.kolobok.us
 	<bitmap name="zmikund" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/zmikund.png"/>
 	<bitmap name="sponge" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/sponge.png"/>
 
-	<bitmap name="cataw" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/cataw.png"/>
-	<bitmap name="catbruh" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/catbruh.png"/>
-	<bitmap name="catcry" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/catcry.png"/>
-	<bitmap name="catgasp" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/catgasp.png"/>
-	<bitmap name="cathappy" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra/cathappy.png"/>
-	<bitmap name="catheart" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra/catheart.png"/>
-	<bitmap name="cathey" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/cathey.png"/>
-	<bitmap name="catlul" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/catlul.png"/>
-	<bitmap name="catlurk" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/catlurk.png"/>
-	<bitmap name="catmad" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/catmad.png"/>
-	<bitmap name="catomg" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/catomg.png"/>
-	<bitmap name="catpoker" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra/catpoker.png"/>
-	<bitmap name="catshrug" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra/catshrug.png"/>
-	<bitmap name="catshy" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/catshy.png"/>
-	<bitmap name="catsmug" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/catsmug.png"/>
+	<bitmap name="cataw" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/cataw.png"/>
+	<bitmap name="catbruh" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catbruh.png"/>
+	<bitmap name="catcry" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catcry.png"/>
+	<bitmap name="catgasp" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catgasp.png"/>
+	<bitmap name="cathappy" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra2/cathappy.png"/>
+	<bitmap name="catheart" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catheart.png"/>
+	<bitmap name="cathey" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/cathey.png"/>
+	<bitmap name="catlul" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catlul.png"/>
+	<bitmap name="catlurk" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catlurk.png"/>
+	<bitmap name="catmad" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catmad.png"/>
+	<bitmap name="catomg" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catomg.png"/>
+	<bitmap name="catpoker" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catpoker.png"/>
+	<bitmap name="catshrug" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catshrug.png"/>
+	<bitmap name="catshy" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catshy.png"/>
+	<bitmap name="catsmug" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catsmug.png"/>
 
 
 	
