@@ -182,7 +182,7 @@ www.kolobok.us
 	<bitmap name="forsenpls"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenpls.gif"/>
 	<bitmap name="gaben"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/gaben.png"/>
 	<bitmap name="gachigasm"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/gachigasm.png"/>
-	<bitmap name="gachigold"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/gachigold.png"/>
+	<bitmap name="gachigold"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/gachigold.gif"/>
 	<bitmap name="gachihop"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/gachihop.gif"/>
 	<bitmap name="kkaper"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/kkaper.gif"/>
 	<bitmap name="kkona"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/kkona.png"/>
@@ -874,21 +874,21 @@ www.kolobok.us
 <emoticon text= "hkitty"><source name= "HKitty"  left=" 0" right=" 33" top=" 0" bottom=" 33"/></emoticon>
 <emoticon text= "*sponge*"><source name= "sponge"  left=" 0" right=" 83" top=" 0" bottom=" 50"/></emoticon>
 
-<emoticon text= "catAw"><source name= "cataw"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
-<emoticon text= "catBruh"><source name= "catbruh"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
-<emoticon text= "catCry"><source name= "catcry"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
-<emoticon text= "catGasp"><source name= "catgasp"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
-<emoticon text= "catHappy"><source name= "cathappy"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
-<emoticon text= "catHeart"><source name= "catheart"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
-<emoticon text= "catHey"><source name= "cathey"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
-<emoticon text= "catLUL"><source name= "catlul"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
-<emoticon text= "catLurk"><source name= "catlurk"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
-<emoticon text= "catMad"><source name= "catmad"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
-<emoticon text= "catOMG"><source name= "catomg"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
-<emoticon text= "catPoker"><source name= "catpoker"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
-<emoticon text= "catShrug"><source name= "catshrug"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
-<emoticon text= "catShy"><source name= "catshy"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
-<emoticon text= "catSmug"><source name= "catsmug"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
+<emoticon text= "catAw" button="yes"><source name= "cataw"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
+<emoticon text= "catBruh" button="yes"><source name= "catbruh"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
+<emoticon text= "catCry" button="yes"><source name= "catcry"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
+<emoticon text= "catGasp" button="yes"><source name= "catgasp"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
+<emoticon text= "catHappy" button="yes"><source name= "cathappy"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
+<emoticon text= "catHeart" button="yes"><source name= "catheart"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
+<emoticon text= "catHey" button="yes"><source name= "cathey"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
+<emoticon text= "catLUL" button="yes"><source name= "catlul"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
+<emoticon text= "catLurk" button="yes"><source name= "catlurk"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
+<emoticon text= "catMad" button="yes"><source name= "catmad"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
+<emoticon text= "catOMG" button="yes"><source name= "catomg"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
+<emoticon text= "catPoker" button="yes"><source name= "catpoker"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
+<emoticon text= "catShrug" button="yes"><source name= "catshrug"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
+<emoticon text= "catShy" button="yes"><source name= "catshy"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
+<emoticon text= "catSmug" button="yes"><source name= "catsmug"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
 <!-- end of addition -->
 		</group>
 		
