@@ -160,6 +160,7 @@ www.kolobok.us
 	<bitmap name="forsenddk"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenddk.png"/>
 	<bitmap name="forsene"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsene.png"/>
 	<bitmap name="forsenpepe"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenpepe.png"/>
+	<bitmap name="forsenrope"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenrope.png"/>
 	<bitmap name="forsensheffy"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsensheffy.png"/>
 	<bitmap name="forsensleeper" 		file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsensleeper.png"/>
 	<bitmap name="forsenw"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenw.png"/>
@@ -180,14 +181,17 @@ www.kolobok.us
 	<bitmap name="feelsbadman"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/feelsbadman.png"/>
 	<bitmap name="feelsgoodman"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/feelsgoodman.png"/>
 	<bitmap name="forsenpls"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenpls.gif"/>
+	<bitmap name="forsenswa"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenswa.gif"/>
 	<bitmap name="gaben"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/gaben.png"/>
 	<bitmap name="gachigasm"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/gachigasm.png"/>
 	<bitmap name="gachigold"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/gachigold.gif"/>
 	<bitmap name="gachihop"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/gachihop.gif"/>
 	<bitmap name="kkaper"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/kkaper.gif"/>
+	<bitmap name="kkomrade"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/kkomrade.png"/>
 	<bitmap name="kkona"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/kkona.png"/>
 	<bitmap name="lul"					file="../../stixe/plugins/trillian-kolobok-smiles/extra/lul.png"/>
 	<bitmap name="notlikethis"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/notlikethis.png"/>
+	<bitmap name="nymncorn"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/nymncorn.gif"/>
 	<bitmap name="pedobear"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/pedobear.png"/>
 	<bitmap name="rarekona"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/rarekona.gif"/>
 	<bitmap name="seemsgood"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/seemsgood.png"/>
@@ -231,6 +235,7 @@ www.kolobok.us
 	<bitmap name="ziska" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/ziska.png"/>
 	<bitmap name="zmikund" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/zmikund.png"/>
 	<bitmap name="sponge" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/sponge.png"/>
+	<bitmap name="guardianw" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra/guardianw.png"/>
 
 	<bitmap name="cataw" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/cataw.png"/>
 	<bitmap name="catbruh" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catbruh.png"/>
@@ -716,6 +721,7 @@ www.kolobok.us
 <emoticon text= "forsenWut" button="yes"><source name= "forsenwut"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenDDK" button="yes"><source name= "forsenddk"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenPepe" button="yes"><source name= "forsenpepe"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "forsenRope"><source name= "forsenrope"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenSheffy" button="yes"><source name= "forsensheffy"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenSleeper" button="yes"><source name= "forsensleeper"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenWhip" button="yes"><source name= "forsenwhip"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
@@ -751,7 +757,10 @@ www.kolobok.us
 <emoticon text= "gachiHop"><source name= "gachihop"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "D:"><source name= "d"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenPls"><source name= "forsenpls"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "forsenSWA"><source name= "forsenswa"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "KKomrade"><source name= "kkomrade"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "NotLikeThis"><source name= "notlikethis"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "nymnCorn"><source name= "nymncorn"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "SeemsGood"><source name= "seemsgood"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "RareKona"><source name= "rarekona"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "FeelsGoodMan"><source name= "feelsgoodman"  left=" 0" right=" 30" top=" 0" bottom=" 30"/></emoticon>
@@ -793,6 +802,7 @@ www.kolobok.us
 <emoticon text= "forsenwut"><source name= "forsenwut"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenddk"><source name= "forsenddk"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenpepe"><source name= "forsenpepe"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "forsenrope"><source name= "forsenrope"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsensheffy"><source name= "forsensheffy"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsensleeper"><source name= "forsensleeper"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenwhip"><source name= "forsenwhip"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
@@ -826,7 +836,10 @@ www.kolobok.us
 <emoticon text= "gachihop"><source name= "gachihop"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "d:"><source name= "d"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenpls"><source name= "forsenpls"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "forsenswa"><source name= "forsenswa"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "kkomrade"><source name= "kkomrade"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "notlikethis"><source name= "notlikethis"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "nymncorn"><source name= "nymncorn"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "seemsgood"><source name= "seemsgood"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "rarekona"><source name= "rarekona"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "feelsgoodman"><source name= "feelsgoodman"  left=" 0" right=" 30" top=" 0" bottom=" 30"/></emoticon>
@@ -873,6 +886,8 @@ www.kolobok.us
 <emoticon text= "HKitty" button="yes"><source name= "HKitty"  left=" 0" right=" 33" top=" 0" bottom=" 33"/></emoticon>
 <emoticon text= "hkitty"><source name= "HKitty"  left=" 0" right=" 33" top=" 0" bottom=" 33"/></emoticon>
 <emoticon text= "*sponge*"><source name= "sponge"  left=" 0" right=" 83" top=" 0" bottom=" 50"/></emoticon>
+<emoticon text= "guardianw" button="yes"><source name= "guardianw"  left=" 0" right=" 30" top=" 0" bottom=" 44"/></emoticon>
+<emoticon text= "guardianW"><source name= "guardianw"  left=" 0" right=" 30" top=" 0" bottom=" 44"/></emoticon>
 
 <emoticon text= "catAw" button="yes"><source name= "cataw"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
 <emoticon text= "catBruh" button="yes"><source name= "catbruh"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
@@ -898,9 +913,20 @@ www.kolobok.us
 		&iniIconMenuItemSettings;
 		<!-- Customise the width of the emoticon menu to your own likings instead of Stixe's default -->
 		<settings name="Width" value="550"/>
-		
+		<settings name="height" value="800"/>
+		<settings name="sectionLeftMargin" value="5"/>
+		<settings name="sectionTopMargin" value="5"/>
+		<settings name="sectionRightMargin" value="5"/>
+		<settings name="sectionBottomMargin" value="5"/>
 	<!-- Emoticon Menu Font Settings -->
 		<font name="section"	source="ttfDefault"	type="&iniDefaultFontName;"	size="&iniDefaultFontSize;"/>
+		<color name="group-fore" red="170" green="170" blue="170"/>
+		<color name="group-back" red="255" green="255" blue="255"/>
+		<color name="footer-fore" red="0" green="0" blue="0"/>
+		<color name="footer-back" red="245" green="245" blue="245"/>
+		<color name="scrollbar-normal-fore" red="235" green="235" blue="235"/>
+		<color name="scrollbar-hover-fore" red="164" green="164" blue="164"/>
+		<color name="scrollbar-select-fore" red="164" green="164" blue="164"/>
 		
 	</control>
 </prefs>
