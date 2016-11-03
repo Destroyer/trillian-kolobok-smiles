@@ -765,27 +765,27 @@ www.kolobok.us
 <emoticon text= "asmoH"><source name= "asmoh"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "Clap"><source name= "clap"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "GabeN"><source name= "gaben"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "gachiBASS"><source name= "gachibass"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "gachiBASS" button="yes"><source name= "gachibass"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "gachiHop"><source name= "gachihop"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "D:"><source name= "d"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenPls"><source name= "forsenpls"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenSWA"><source name= "forsenswa"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "KKomrade"><source name= "kkomrade"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "monkaS"><source name= "monkas"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "monkaS" button="yes"><source name= "monkas"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "NotLikeThis"><source name= "notlikethis"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "nymnCorn"><source name= "nymncorn"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "SeemsGood"><source name= "seemsgood"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "RareKona"><source name= "rarekona"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "FeelsGoodMan"><source name= "feelsgoodman"  left=" 0" right=" 30" top=" 0" bottom=" 30"/></emoticon>
 <emoticon text= "KKaper"><source name= "kkaper"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "KKool"><source name= "kkool"  left=" 0" right=" 22" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "KKool" button="yes"><source name= "kkool"  left=" 0" right=" 22" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "LUL"><source name= "lul"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "MEGALUL"><source name= "megalul"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "*tf*"><source name= "tf"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "FeelsBirthdayMan"><source name= "feelsbirthdayman"  left=" 0" right=" 19" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "PedoBear"><source name= "pedobear"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "VapeNation" button="yes"><source name= "vapenation"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "ZULUL"><source name= "zulul"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "ZULUL" button="yes"><source name= "zulul"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <!-- Additional Twitch smilies uppercase -->
 <emoticon text= "DANSGAME"><source name= "dansgame"  left=" 0" right=" 25" top=" 0" bottom=" 32"/></emoticon>
 <emoticon text= "GACHIGASM"><source name= "gachigasm"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
@@ -873,11 +873,22 @@ www.kolobok.us
 <emoticon text= "pedobear"><source name= "pedobear"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "vapenation" ><source name= "vapenation"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "zulul"><source name= "zulul"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+
+<!-- Additional custom requested smilies -->
+<emoticon text= "*sponge*"><source name= "sponge"  left=" 0" right=" 83" top=" 0" bottom=" 50"/></emoticon>
+<emoticon text= "guardianW" button="yes"><source name= "guardianw"  left=" 0" right=" 30" top=" 0" bottom=" 44"/></emoticon>
+<emoticon text= "guardianw"><source name= "guardianw"  left=" 0" right=" 30" top=" 0" bottom=" 44"/></emoticon>
+<emoticon text= ":thinking:"><source name= "thinking"  left=" 0" right=" 32" top=" 0" bottom=" 32"/></emoticon>
+<emoticon text= "MINGLUL" button="yes"><source name= "minglul"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "minglul"><source name= "minglul"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "OPOPMagic" button="yes"><source name= "opopmagic"  left=" 0" right=" 32" top=" 0" bottom=" 32"/></emoticon>
+<emoticon text= "opopmagic"><source name= "opopmagic"  left=" 0" right=" 32" top=" 0" bottom=" 32"/></emoticon>
+
 		</group>
 
 
 
-<!-- Additional custom requested smilies -->
+
 		<group text="" initial="1" >
 <emoticon text= "*huz*" button="yes"><source name= "huz"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
 <emoticon text= "*jjjj*" button="yes"><source name= "jjjj"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
@@ -910,14 +921,6 @@ www.kolobok.us
 <emoticon text= "*pusheen_fuu*" button="yes"><source name= "pusheen_fuu"  left=" 0" right=" 84" top=" 0" bottom=" 54"/></emoticon>
 <emoticon text= "HKitty" button="yes"><source name= "HKitty"  left=" 0" right=" 33" top=" 0" bottom=" 33"/></emoticon>
 <emoticon text= "hkitty"><source name= "HKitty"  left=" 0" right=" 33" top=" 0" bottom=" 33"/></emoticon>
-<emoticon text= "*sponge*"><source name= "sponge"  left=" 0" right=" 83" top=" 0" bottom=" 50"/></emoticon>
-<emoticon text= "guardianw" button="yes"><source name= "guardianw"  left=" 0" right=" 30" top=" 0" bottom=" 44"/></emoticon>
-<emoticon text= "guardianW"><source name= "guardianw"  left=" 0" right=" 30" top=" 0" bottom=" 44"/></emoticon>
-<emoticon text= ":thinking:"><source name= "thinking"  left=" 0" right=" 32" top=" 0" bottom=" 32"/></emoticon>
-<emoticon text= "MINGLUL"><source name= "minglul"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "minglul"><source name= "minglul"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-<emoticon text= "OPOPMagic"><source name= "opopmagic"  left=" 0" right=" 32" top=" 0" bottom=" 32"/></emoticon>
-<emoticon text= "opopmagic"><source name= "opopmagic"  left=" 0" right=" 32" top=" 0" bottom=" 32"/></emoticon>
 
 <emoticon text= "catAw" button="yes"><source name= "cataw"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
 <emoticon text= "catBruh" button="yes"><source name= "catbruh"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
