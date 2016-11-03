@@ -892,8 +892,7 @@ www.kolobok.us
 <emoticon text= "kittyBlush" button="yes"><source name= "kittyblush"  left=" 0" right=" 50" top=" 0" bottom=" 42"/></emoticon>
 <emoticon text= "kittyClap" button="yes"><source name= "kittyclap"  left=" 0" right=" 50" top=" 0" bottom=" 42"/></emoticon>
 <emoticon text= "kittyCry" button="yes"><source name= "kittycry"  left=" 0" right=" 50" top=" 0" bottom=" 43"/></emoticon>
-<emoticon text= "kittyAngry" button="yes"><source name= "kittyangry"  left=" 0" right=" 5
-	0" top=" 0" bottom=" 50"/></emoticon>
+<emoticon text= "kittyAngry" button="yes"><source name= "kittyangry"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
 <emoticon text= "kittyMad" button="yes"><source name= "kittymad"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
 <emoticon text= "catFan" button="yes"><source name= "catfan"  left=" 0" right=" 70" top=" 0" bottom=" 60"/></emoticon>
 <emoticon text= "catDrink" button="yes"><source name= "catdrink"  left=" 0" right=" 70" top=" 0" bottom=" 60"/></emoticon>
