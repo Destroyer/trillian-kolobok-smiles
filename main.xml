@@ -156,15 +156,16 @@ www.kolobok.us
 	<bitmap name="wutface"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/wutface.png"/>
 <!-- Twitch Subscription emotes -->
 	<bitmap name="alkxd"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/alkxd.png"/>
+	<bitmap name="forsen1"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsen1.png"/>
 	<bitmap name="forsenc"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenc.png"/>
 	<bitmap name="forsenddk"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenddk.png"/>
 	<bitmap name="forsene"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsene.png"/>
 	<bitmap name="forsenpepe"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenpepe.png"/>
 	<bitmap name="forsenrope"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenrope.png"/>
 	<bitmap name="forsensheffy"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsensheffy.png"/>
-	<bitmap name="forsensleeper" 		file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsensleeper.png"/>
+	<bitmap name="forsensleeper"		file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsensleeper.png"/>
 	<bitmap name="forsenw"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenw.png"/>
-	<bitmap name="forsenwhip" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenwhip.png"/>
+	<bitmap name="forsenwhip"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenwhip.png"/>
 	<bitmap name="forsenwut"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenwut.png"/>
 	<bitmap name="forsenx"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenx.png"/>
 	<bitmap name="nymncry"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/nymncry.png"/>
@@ -197,6 +198,12 @@ www.kolobok.us
 	<bitmap name="seemsgood"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/seemsgood.png"/>
 	<bitmap name="tf"					file="../../stixe/plugins/trillian-kolobok-smiles/extra/tf.png"/>
 	<bitmap name="vapenation"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/vapenation.png"/>
+	<bitmap name="megalul"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/megalul.png"/>
+	<bitmap name="kkool"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/kkool.gif"/>
+	<bitmap name="gachibass"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/gachibass.gif"/>
+	<bitmap name="clap"					file="../../stixe/plugins/trillian-kolobok-smiles/extra/clap.gif"/>
+	<bitmap name="zulul"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/zulul.png"/>
+	<bitmap name="monkas"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/monkas.png"/>
 <!-- Additional custom emotes -->
 	<bitmap name="Yee"					file="../../stixe/plugins/trillian-kolobok-smiles/extra/yee.png"/>
 	<bitmap name="Wat"					file="../../stixe/plugins/trillian-kolobok-smiles/extra/wat.png"/>
@@ -208,7 +215,7 @@ www.kolobok.us
 	<bitmap name="Gasp3"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/gasp3.png"/>
 	<bitmap name="Smug"					file="../../stixe/plugins/trillian-kolobok-smiles/extra/smug.png"/>
 	<bitmap name="pika_cry"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/pika_cry.png"/>
-	<bitmap name="pika_sad"     		file="../../stixe/plugins/trillian-kolobok-smiles/extra/pika_sad.png"/>
+	<bitmap name="pika_sad"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/pika_sad.png"/>
 	<bitmap name="pika_happy"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/pika_happy.png"/>
 	<bitmap name="pika_ketchup"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/pika_ketchup.png"/>
 	<bitmap name="pika_mad"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/pika_mad.png"/>
@@ -216,42 +223,45 @@ www.kolobok.us
 	<bitmap name="fluffle"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/fluffle.png"/>
 	<bitmap name="pusheen_draw"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/pusheen_draw.gif"/>
 	<bitmap name="pusheen_baker"		file="../../stixe/plugins/trillian-kolobok-smiles/extra/pusheen_baker.gif"/>
-	<bitmap name="pusheen_fuu"     		file="../../stixe/plugins/trillian-kolobok-smiles/extra/pusheen_fuu.gif"/>
-	<bitmap name="catfan" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/catfan.gif"/>
-	<bitmap name="cateat" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/cateat.gif"/>
-	<bitmap name="catdrink" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra/catdrink.gif"/>
-	<bitmap name="catquestion" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra/catquestion.gif"/>
-	<bitmap name="kittyangry" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra/kittyangry.gif"/>
-	<bitmap name="kittymad" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra/kittymad.gif"/>
-	<bitmap name="kittyhappy" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra/kittyhappy.gif"/>
-	<bitmap name="kittycry" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra/kittycry.gif"/>
-	<bitmap name="kittyclap" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra/kittyclap.gif"/>
-	<bitmap name="kittysleep" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra/kittysleep.gif"/>
-	<bitmap name="kittyblush" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra/kittyblush.gif"/>
-	<bitmap name="huz" 					file="../../stixe/plugins/trillian-kolobok-smiles/extra/huz.png"/>
-	<bitmap name="jjjj" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/jjjj.png"/>
-	<bitmap name="nbeo_debil" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra/nbeo_debil.png"/>
-	<bitmap name="vaclaf" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/vaclaf.png"/>
-	<bitmap name="ziska" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/ziska.png"/>
-	<bitmap name="zmikund" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/zmikund.png"/>
-	<bitmap name="sponge" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra/sponge.png"/>
-	<bitmap name="guardianw" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra/guardianw.png"/>
+	<bitmap name="pusheen_fuu"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/pusheen_fuu.gif"/>
+	<bitmap name="catfan"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/catfan.gif"/>
+	<bitmap name="cateat"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/cateat.gif"/>
+	<bitmap name="catdrink"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/catdrink.gif"/>
+	<bitmap name="catquestion"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/catquestion.gif"/>
+	<bitmap name="kittyangry"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/kittyangry.gif"/>
+	<bitmap name="kittymad"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/kittymad.gif"/>
+	<bitmap name="kittyhappy"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/kittyhappy.gif"/>
+	<bitmap name="kittycry"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/kittycry.gif"/>
+	<bitmap name="kittyclap"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/kittyclap.gif"/>
+	<bitmap name="kittysleep"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/kittysleep.gif"/>
+	<bitmap name="kittyblush"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/kittyblush.gif"/>
+	<bitmap name="huz"					file="../../stixe/plugins/trillian-kolobok-smiles/extra/huz.png"/>
+	<bitmap name="jjjj"					file="../../stixe/plugins/trillian-kolobok-smiles/extra/jjjj.png"/>
+	<bitmap name="nbeo_debil"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/nbeo_debil.png"/>
+	<bitmap name="vaclaf"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/vaclaf.png"/>
+	<bitmap name="ziska"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/ziska.png"/>
+	<bitmap name="zmikund"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/zmikund.png"/>
+	<bitmap name="sponge"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/sponge.png"/>
+	<bitmap name="guardianw"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/guardianw.png"/>	
+	<bitmap name="opopmagic"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/opopmagic.png"/>
+	<bitmap name="minglul"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/minglul.png"/>
+	<bitmap name="thinking"     		file="../../stixe/plugins/trillian-kolobok-smiles/extra/thinking.png"/>
 
-	<bitmap name="cataw" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/cataw.png"/>
-	<bitmap name="catbruh" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catbruh.png"/>
-	<bitmap name="catcry" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catcry.png"/>
-	<bitmap name="catgasp" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catgasp.png"/>
-	<bitmap name="cathappy" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra2/cathappy.png"/>
-	<bitmap name="catheart" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catheart.png"/>
-	<bitmap name="cathey" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/cathey.png"/>
-	<bitmap name="catlul" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catlul.png"/>
-	<bitmap name="catlurk" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catlurk.png"/>
-	<bitmap name="catmad" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catmad.png"/>
-	<bitmap name="catomg" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catomg.png"/>
-	<bitmap name="catpoker" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catpoker.png"/>
-	<bitmap name="catshrug" 			file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catshrug.png"/>
-	<bitmap name="catshy" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catshy.png"/>
-	<bitmap name="catsmug" 				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catsmug.png"/>
+	<bitmap name="cataw"				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/cataw.png"/>
+	<bitmap name="catbruh"				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catbruh.png"/>
+	<bitmap name="catcry"				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catcry.png"/>
+	<bitmap name="catgasp"				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catgasp.png"/>
+	<bitmap name="cathappy"				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/cathappy.png"/>
+	<bitmap name="catheart"				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catheart.png"/>
+	<bitmap name="cathey"				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/cathey.png"/>
+	<bitmap name="catlul"				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catlul.png"/>
+	<bitmap name="catlurk"				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catlurk.png"/>
+	<bitmap name="catmad"				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catmad.png"/>
+	<bitmap name="catomg"				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catomg.png"/>
+	<bitmap name="catpoker"				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catpoker.png"/>
+	<bitmap name="catshrug"				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catshrug.png"/>
+	<bitmap name="catshy"				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catshy.png"/>
+	<bitmap name="catsmug"				file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catsmug.png"/>
 
 
 	
@@ -715,7 +725,7 @@ www.kolobok.us
 <emoticon text= "panicBasket"><source name= "panicbasket"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "VaultBoy"><source name= "vaultboy"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 
-
+<emoticon text= "forsen1"><source name= "forsen1"  left=" 0" right=" 112" top=" 0" bottom=" 112"/></emoticon>
 <emoticon text= "forsenC" button="yes"><source name= "forsenc"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenE" button="yes"><source name= "forsene"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenWut" button="yes"><source name= "forsenwut"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
@@ -753,24 +763,32 @@ www.kolobok.us
 
 <emoticon text= "AlkXD"><source name= "alkxd"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "asmoH"><source name= "asmoh"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "Clap"><source name= "clap"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "GabeN"><source name= "gaben"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "gachiBASS"><source name= "gachibass"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "gachiHop"><source name= "gachihop"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "D:"><source name= "d"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenPls"><source name= "forsenpls"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenSWA"><source name= "forsenswa"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "KKomrade"><source name= "kkomrade"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "monkaS"><source name= "monkas"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "NotLikeThis"><source name= "notlikethis"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "nymnCorn"><source name= "nymncorn"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "SeemsGood"><source name= "seemsgood"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "RareKona"><source name= "rarekona"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "FeelsGoodMan"><source name= "feelsgoodman"  left=" 0" right=" 30" top=" 0" bottom=" 30"/></emoticon>
 <emoticon text= "KKaper"><source name= "kkaper"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "KKool"><source name= "kkool"  left=" 0" right=" 22" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "LUL"><source name= "lul"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "MEGALUL"><source name= "megalul"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "*tf*"><source name= "tf"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "FeelsBirthdayMan"><source name= "feelsbirthdayman"  left=" 0" right=" 19" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "PedoBear"><source name= "pedobear"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "VapeNation" button="yes"><source name= "vapenation"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
-
+<emoticon text= "ZULUL"><source name= "zulul"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<!-- Additional Twitch smilies uppercase -->
+<emoticon text= "DANSGAME"><source name= "dansgame"  left=" 0" right=" 25" top=" 0" bottom=" 32"/></emoticon>
+<emoticon text= "GACHIGASM"><source name= "gachigasm"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <!-- Additional Twitch smilies lowercase -->
 <emoticon text= "kappa"><source name= "kappa"  left=" 0" right=" 25" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "babyrage"><source name= "babyrage"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
@@ -830,24 +848,31 @@ www.kolobok.us
 <emoticon text= "pajac"><source name= "pajac"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "pajahappy"><source name= "pajahappy"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "nymncry"><source name= "nymncry"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+
 <emoticon text= "alkxd"><source name= "alkxd"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "asmoh"><source name= "asmoh"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "clap"><source name= "clap"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "gaben"><source name= "gaben"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "gachibass"><source name= "gachibass"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "gachihop"><source name= "gachihop"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "d:"><source name= "d"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenpls"><source name= "forsenpls"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "forsenswa"><source name= "forsenswa"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "kkomrade"><source name= "kkomrade"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "monkas"><source name= "monkas"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "notlikethis"><source name= "notlikethis"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "nymncorn"><source name= "nymncorn"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "seemsgood"><source name= "seemsgood"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "rarekona"><source name= "rarekona"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "feelsgoodman"><source name= "feelsgoodman"  left=" 0" right=" 30" top=" 0" bottom=" 30"/></emoticon>
 <emoticon text= "kkaper"><source name= "kkaper"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "kkool"><source name= "kkool"  left=" 0" right=" 22" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "lul"><source name= "lul"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "megalul"><source name= "megalul"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "feelsbirthdayman"><source name= "feelsbirthdayman"  left=" 0" right=" 19" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "pedobear"><source name= "pedobear"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "vapenation" ><source name= "vapenation"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "zulul"><source name= "zulul"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 		</group>
 
 
@@ -867,7 +892,8 @@ www.kolobok.us
 <emoticon text= "kittyBlush" button="yes"><source name= "kittyblush"  left=" 0" right=" 50" top=" 0" bottom=" 42"/></emoticon>
 <emoticon text= "kittyClap" button="yes"><source name= "kittyclap"  left=" 0" right=" 50" top=" 0" bottom=" 42"/></emoticon>
 <emoticon text= "kittyCry" button="yes"><source name= "kittycry"  left=" 0" right=" 50" top=" 0" bottom=" 43"/></emoticon>
-<emoticon text= "kittyAngry" button="yes"><source name= "kittyangry"  left=" 0" right=" 50" top=" 0" bottom=" 50"/></emoticon>
+<emoticon text= "kittyAngry" button="yes"><source name= "kittyangry"  left=" 0" right=" 5
+	0" top=" 0" bottom=" 50"/></emoticon>
 <emoticon text= "kittyMad" button="yes"><source name= "kittymad"  left=" 0" right=" 40" top=" 0" bottom=" 40"/></emoticon>
 <emoticon text= "catFan" button="yes"><source name= "catfan"  left=" 0" right=" 70" top=" 0" bottom=" 60"/></emoticon>
 <emoticon text= "catDrink" button="yes"><source name= "catdrink"  left=" 0" right=" 70" top=" 0" bottom=" 60"/></emoticon>
@@ -888,6 +914,11 @@ www.kolobok.us
 <emoticon text= "*sponge*"><source name= "sponge"  left=" 0" right=" 83" top=" 0" bottom=" 50"/></emoticon>
 <emoticon text= "guardianw" button="yes"><source name= "guardianw"  left=" 0" right=" 30" top=" 0" bottom=" 44"/></emoticon>
 <emoticon text= "guardianW"><source name= "guardianw"  left=" 0" right=" 30" top=" 0" bottom=" 44"/></emoticon>
+<emoticon text= ":thinking:"><source name= "thinking"  left=" 0" right=" 32" top=" 0" bottom=" 32"/></emoticon>
+<emoticon text= "MINGLUL"><source name= "minglul"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "minglul"><source name= "minglul"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
+<emoticon text= "OPOPMagic"><source name= "opopmagic"  left=" 0" right=" 32" top=" 0" bottom=" 32"/></emoticon>
+<emoticon text= "opopmagic"><source name= "opopmagic"  left=" 0" right=" 32" top=" 0" bottom=" 32"/></emoticon>
 
 <emoticon text= "catAw" button="yes"><source name= "cataw"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
 <emoticon text= "catBruh" button="yes"><source name= "catbruh"  left=" 0" right=" 56" top=" 0" bottom=" 56"/></emoticon>
