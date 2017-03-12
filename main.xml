@@ -248,6 +248,7 @@ www.kolobok.us
 	<bitmap name="guardianw"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/guardianw.png"/>	
 	<bitmap name="opopmagic"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/opopmagic.png"/>
 	<bitmap name="minglul"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/minglul.png"/>
+	<bitmap name="weasel"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/weasel.png"/>
 	<bitmap name="monkamega"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/monkamega.png"/>
 	<bitmap name="feelsokayman"			file="../../stixe/plugins/trillian-kolobok-smiles/extra/feelsokayman.png"/>
 	<bitmap name="eshrug"				file="../../stixe/plugins/trillian-kolobok-smiles/extra/eshrug.png"/>
@@ -895,6 +896,7 @@ www.kolobok.us
 <emoticon text= "minglul"><source name= "minglul"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
 <emoticon text= "OPOPMagic" button="yes"><source name= "opopmagic"  left=" 0" right=" 32" top=" 0" bottom=" 32"/></emoticon>
 <emoticon text= "opopmagic"><source name= "opopmagic"  left=" 0" right=" 32" top=" 0" bottom=" 32"/></emoticon>
+<emoticon text= "*weasel*"><source name= "weasel"  left=" 0" right=" 45" top=" 0" bottom=" 44"/></emoticon>
 
 		</group>
 
