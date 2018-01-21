@@ -273,7 +273,7 @@ www.kolobok.us
 	<bitmap name="monkagun"							file="../../stixe/plugins/trillian-kolobok-smiles/extra/monkagun.png" />
 	<bitmap name="monkah"							file="../../stixe/plugins/trillian-kolobok-smiles/extra/monkah.png" />
 	<bitmap name="nymnree"							file="../../stixe/plugins/trillian-kolobok-smiles/extra/nymnree.png" />
-	<bitmap name="pepeclap"							file="../../stixe/plugins/trillian-kolobok-smiles/pepeclap.gif" />
+	<bitmap name="pepeclap"							file="../../stixe/plugins/trillian-kolobok-smiles/extra/pepeclap.gif" />
 	<bitmap name="pepelaugh"						file="../../stixe/plugins/trillian-kolobok-smiles/extra/pepelaugh.png" />
 	<bitmap name="pogomega"							file="../../stixe/plugins/trillian-kolobok-smiles/extra/pogomega.png" />
 
