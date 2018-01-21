@@ -265,6 +265,16 @@ www.kolobok.us
 	<bitmap name="omegalul"							file="../../stixe/plugins/trillian-kolobok-smiles/extra/omegalul.png" />
 	<bitmap name="pepehands"						file="../../stixe/plugins/trillian-kolobok-smiles/extra/pepehands.png" />
 	<bitmap name="wesmart"							file="../../stixe/plugins/trillian-kolobok-smiles/extra/wesmart.png" />
+    <bitmap name="donaldpls"	                	file="../../stixe/plugins/trillian-kolobok-smiles/donaldpls.gif" />
+    <bitmap name="forsent"	                    	file="../../stixe/plugins/trillian-kolobok-smiles/forsent.png" />
+    <bitmap name="forsenpastor"             		file="../../stixe/plugins/trillian-kolobok-smiles/forsenpastor.png" />
+    <bitmap name="hyperbruh"		                file="../../stixe/plugins/trillian-kolobok-smiles/hyperbruh.png" />
+    <bitmap name="megazulul"                		file="../../stixe/plugins/trillian-kolobok-smiles/megazulul.png" />
+    <bitmap name="monkagun"		                    file="../../stixe/plugins/trillian-kolobok-smiles/monkagun.png" />
+    <bitmap name="monkah"		                    file="../../stixe/plugins/trillian-kolobok-smiles/monkah.png" />
+    <bitmap name="nymnree"	                    	file="../../stixe/plugins/trillian-kolobok-smiles/nymnree.png" />
+    <bitmap name="pepelaugh"                		file="../../stixe/plugins/trillian-kolobok-smiles/pepelaugh.png" />
+    <bitmap name="pogomega"                 		file="../../stixe/plugins/trillian-kolobok-smiles/pogomega.png" />
 
 	<bitmap name="cataw"							file="../../stixe/plugins/trillian-kolobok-smiles/extra2/cataw.png"/>
 	<bitmap name="catbruh"							file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catbruh.png"/>
@@ -822,6 +832,17 @@ www.kolobok.us
 <emoticon text ="OMEGALUL"><source name = "omegalul" left = " 0" right = "31" top = " 0" bottom = "32"/></emoticon>
 <emoticon text ="PepeHands"><source name = "pepehands" left = " 0" right = "32" top = " 0" bottom = "30"/></emoticon>
 <emoticon text ="weSmart"><source name = "wesmart" left = " 0" right = "27" top = " 0" bottom = "28"/></emoticon>
+<emoticon text ="DonaldPls"><source name = "donaldpls" left = " 0" right = "28" top = " 0" bottom = "28"/></emoticon>
+<emoticon text ="forsenT"><source name = "forsent" left = " 0" right = "28" top = " 0" bottom = "28"/></emoticon>
+<emoticon text ="forsenPastor"><source name = "forsenpastor" left = " 0" right = "28" top = " 0" bottom = "28"/></emoticon>
+<emoticon text ="HYPERBRUH"><source name = "hyperbruh" left = " 0" right = "32" top = " 0" bottom = "32"/></emoticon>
+<emoticon text ="MEGAZULUL"><source name = "megazulul" left = " 0" right = "31" top = " 0" bottom = "31"/></emoticon>
+<emoticon text ="monkaGun"><source name = "monkagun" left = " 0" right = "28" top = " 0" bottom = "28"/></emoticon>
+<emoticon text ="monkaH"><source name = "monkah" left = " 0" right = "28" top = " 0" bottom = "28"/></emoticon>
+<emoticon text ="nymnREE"><source name = "nymnree" left = " 0" right = "28" top = " 0" bottom = "28"/></emoticon>
+<emoticon text ="PepeLaugh"><source name = "pepelaugh" left = " 0" right = "30" top = " 0" bottom = "29"/></emoticon>
+<emoticon text ="Pogomega"><source name = "pogomega" left = " 0" right = "27" top = " 0" bottom = "32"/></emoticon>
+
 <!-- Additional Twitch smilies uppercase -->
 <emoticon text= "DANSGAME"><source name= "dansgame"  left=" 0" right=" 25" top=" 0" bottom=" 32"/></emoticon>
 <emoticon text= "GACHIGASM"><source name= "gachigasm"  left=" 0" right=" 28" top=" 0" bottom=" 28"/></emoticon>
@@ -921,6 +942,17 @@ www.kolobok.us
 <emoticon text ="omegalul"><source name = "omegalul" left = " 0" right = "31" top = " 0" bottom = "32"/></emoticon>
 <emoticon text ="pepehands"><source name = "pepehands" left = " 0" right = "32" top = " 0" bottom = "30"/></emoticon>
 <emoticon text ="wesmart"><source name = "wesmart" left = " 0" right = "27" top = " 0" bottom = "28"/></emoticon>
+<emoticon text ="donaldpls"><source name = "donaldpls" left = " 0" right = "28" top = " 0" bottom = "28"/></emoticon>
+<emoticon text ="forsent"><source name = "forsent" left = " 0" right = "28" top = " 0" bottom = "28"/></emoticon>
+<emoticon text ="forsenpastor"><source name = "forsenpastor" left = " 0" right = "28" top = " 0" bottom = "28"/></emoticon>
+<emoticon text ="hyperbruh"><source name = "hyperbruh" left = " 0" right = "32" top = " 0" bottom = "32"/></emoticon>
+<emoticon text ="megazulul"><source name = "megazulul" left = " 0" right = "31" top = " 0" bottom = "31"/></emoticon>
+<emoticon text ="monkagun"><source name = "monkagun" left = " 0" right = "28" top = " 0" bottom = "28"/></emoticon>
+<emoticon text ="monkah"><source name = "monkah" left = " 0" right = "28" top = " 0" bottom = "28"/></emoticon>
+<emoticon text ="nymnree"><source name = "nymnree" left = " 0" right = "28" top = " 0" bottom = "28"/></emoticon>
+<emoticon text ="pepelaugh"><source name = "pepelaugh" left = " 0" right = "30" top = " 0" bottom = "29"/></emoticon>
+<emoticon text ="pogomega"><source name = "pogomega" left = " 0" right = "27" top = " 0" bottom = "32"/></emoticon>
+
 
 <!-- Additional custom requested smilies -->
 <emoticon text= "*sponge*"><source name= "sponge"  left=" 0" right=" 83" top=" 0" bottom=" 50"/></emoticon>
