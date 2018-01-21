@@ -273,6 +273,7 @@ www.kolobok.us
 	<bitmap name="monkagun"							file="../../stixe/plugins/trillian-kolobok-smiles/extra/monkagun.png" />
 	<bitmap name="monkah"							file="../../stixe/plugins/trillian-kolobok-smiles/extra/monkah.png" />
 	<bitmap name="nymnree"							file="../../stixe/plugins/trillian-kolobok-smiles/extra/nymnree.png" />
+	<bitmap name="pepeclap"							file="../../stixe/plugins/trillian-kolobok-smiles/pepeclap.gif" />
 	<bitmap name="pepelaugh"						file="../../stixe/plugins/trillian-kolobok-smiles/extra/pepelaugh.png" />
 	<bitmap name="pogomega"							file="../../stixe/plugins/trillian-kolobok-smiles/extra/pogomega.png" />
 
@@ -840,6 +841,7 @@ www.kolobok.us
 <emoticon text ="monkaGun"><source name = "monkagun" left = " 0" right = "28" top = " 0" bottom = "28"/></emoticon>
 <emoticon text ="monkaH"><source name = "monkah" left = " 0" right = "28" top = " 0" bottom = "28"/></emoticon>
 <emoticon text ="nymnREE"><source name = "nymnree" left = " 0" right = "28" top = " 0" bottom = "28"/></emoticon>
+<emoticon text ="pepeClap">< source name = "pepeclap" left = " 0" right = "32" top = " 0" bottom = "32"/></emoticon>
 <emoticon text ="PepeLaugh"><source name = "pepelaugh" left = " 0" right = "30" top = " 0" bottom = "29"/></emoticon>
 <emoticon text ="Pogomega"><source name = "pogomega" left = " 0" right = "27" top = " 0" bottom = "32"/></emoticon>
 
@@ -950,6 +952,7 @@ www.kolobok.us
 <emoticon text ="monkagun"><source name = "monkagun" left = " 0" right = "28" top = " 0" bottom = "28"/></emoticon>
 <emoticon text ="monkah"><source name = "monkah" left = " 0" right = "28" top = " 0" bottom = "28"/></emoticon>
 <emoticon text ="nymnree"><source name = "nymnree" left = " 0" right = "28" top = " 0" bottom = "28"/></emoticon>
+<emoticon text ="pepeclap">< source name = "pepeclap" left = " 0" right = "32" top = " 0" bottom = "32"/></emoticon>
 <emoticon text ="pepelaugh"><source name = "pepelaugh" left = " 0" right = "30" top = " 0" bottom = "29"/></emoticon>
 <emoticon text ="pogomega"><source name = "pogomega" left = " 0" right = "27" top = " 0" bottom = "32"/></emoticon>
 
