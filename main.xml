@@ -265,16 +265,16 @@ www.kolobok.us
 	<bitmap name="omegalul"							file="../../stixe/plugins/trillian-kolobok-smiles/extra/omegalul.png" />
 	<bitmap name="pepehands"						file="../../stixe/plugins/trillian-kolobok-smiles/extra/pepehands.png" />
 	<bitmap name="wesmart"							file="../../stixe/plugins/trillian-kolobok-smiles/extra/wesmart.png" />
-    <bitmap name="donaldpls"	                	file="../../stixe/plugins/trillian-kolobok-smiles/donaldpls.gif" />
-    <bitmap name="forsent"	                    	file="../../stixe/plugins/trillian-kolobok-smiles/forsent.png" />
-    <bitmap name="forsenpastor"             		file="../../stixe/plugins/trillian-kolobok-smiles/forsenpastor.png" />
-    <bitmap name="hyperbruh"		                file="../../stixe/plugins/trillian-kolobok-smiles/hyperbruh.png" />
-    <bitmap name="megazulul"                		file="../../stixe/plugins/trillian-kolobok-smiles/megazulul.png" />
-    <bitmap name="monkagun"		                    file="../../stixe/plugins/trillian-kolobok-smiles/monkagun.png" />
-    <bitmap name="monkah"		                    file="../../stixe/plugins/trillian-kolobok-smiles/monkah.png" />
-    <bitmap name="nymnree"	                    	file="../../stixe/plugins/trillian-kolobok-smiles/nymnree.png" />
-    <bitmap name="pepelaugh"                		file="../../stixe/plugins/trillian-kolobok-smiles/pepelaugh.png" />
-    <bitmap name="pogomega"                 		file="../../stixe/plugins/trillian-kolobok-smiles/pogomega.png" />
+	<bitmap name="donaldpls"	                			file="../../stixe/plugins/trillian-kolobok-smiles/extra/donaldpls.gif" />
+	<bitmap name="forsent"	                    				file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsent.png" />
+	<bitmap name="forsenpastor"             				file="../../stixe/plugins/trillian-kolobok-smiles/extra/forsenpastor.png" />
+	<bitmap name="hyperbruh"						file="../../stixe/plugins/trillian-kolobok-smiles/extra/hyperbruh.png" />
+	<bitmap name="megazulul"						file="../../stixe/plugins/trillian-kolobok-smiles/extra/megazulul.png" />
+	<bitmap name="monkagun"							file="../../stixe/plugins/trillian-kolobok-smiles/extra/monkagun.png" />
+	<bitmap name="monkah"							file="../../stixe/plugins/trillian-kolobok-smiles/extra/monkah.png" />
+	<bitmap name="nymnree"							file="../../stixe/plugins/trillian-kolobok-smiles/extra/nymnree.png" />
+	<bitmap name="pepelaugh"						file="../../stixe/plugins/trillian-kolobok-smiles/extra/pepelaugh.png" />
+	<bitmap name="pogomega"							file="../../stixe/plugins/trillian-kolobok-smiles/extra/pogomega.png" />
 
 	<bitmap name="cataw"							file="../../stixe/plugins/trillian-kolobok-smiles/extra2/cataw.png"/>
 	<bitmap name="catbruh"							file="../../stixe/plugins/trillian-kolobok-smiles/extra2/catbruh.png"/>
